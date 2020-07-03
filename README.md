@@ -1,7 +1,8 @@
 # Awesome-Federated-Learning
 
 A curated list of federated learning publications, reorgnized from Arxiv.
-Last Update: July 3rd, 2020
+
+<strong>Last Update: July 3rd, 2020</strong>.	
 
 ## Non-IID, Model Personalization
 
