@@ -1,67 +1,72 @@
 # Awesome-Federated-Learning
-Non-IID, Model Personalization
-FedCD: Improving Performance in non-IID Federated Learning
+
+## Non-IID, Model Personalization
+
+FedCD: Improving Performance in non-IID Federated Learning. 2020
 https://arxiv.org/pdf/2006.09637.pdf
-Life Long Learning: FedFMC: Sequential Efficient Federated Learning on Non-iid Data
+
+Life Long Learning: FedFMC: Sequential Efficient Federated Learning on Non-iid Data. 2020
 https://arxiv.org/pdf/2006.10937.pdf
 
-Robust Federated Learning: The Case of Affine Distribution Shifts
+Robust Federated Learning: The Case of Affine Distribution Shifts. 2020
 https://arxiv.org/pdf/2006.08907.pdf
 
-Personalized Federated Learning with Moreau Envelopes
+Personalized Federated Learning with Moreau Envelopes. 2020
 https://arxiv.org/pdf/2006.08848.pdf
 
-Ensemble Distillation for Robust Model Fusion in Federated Learning
+Ensemble Distillation for Robust Model Fusion in Federated Learning. 2020
 https://arxiv.org/pdf/2006.07242.pdf
 Researcher: Tao Lin, ZJU, EPFL https://tlin-tao-lin.github.io/index.html
 
-Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning
+Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. 2020
 
 
-Towards Flexible Device Participation in Federated Learning for Non-IID Data
+Towards Flexible Device Participation in Federated Learning for Non-IID Data. 2020
 https://arxiv.org/pdf/2006.06954.pdf
 Keywords: inactive or return incomplete updates in non-IID dataset
 
-XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning
+XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning. 2020
 https://arxiv.org/pdf/2006.05148.pdf
 
 
-NeurIPS 2020 submission: An Efficient Framework for Clustered Federated Learning
+NeurIPS 2020 submission: An Efficient Framework for Clustered Federated Learning. 2020
 https://arxiv.org/pdf/2006.04088.pdf
 Researcher: AVISHEK GHOSH, UCB, PhD
 
-Continual Local Training for Better Initialization of Federated Models
+Continual Local Training for Better Initialization of Federated Models. 2020
 https://arxiv.org/pdf/2005.12657.pdf
 
-FedPD: A Federated Learning Framework with Optimal Rates and Adaptivity to Non-IID Data
+FedPD: A Federated Learning Framework with Optimal Rates and Adaptivity to Non-IID Data. 2020
 https://arxiv.org/pdf/2005.11418.pdf
 Researcher: Wotao Yin, UCLA
 
-Global Multiclass Classification from Heterogeneous Local Models
+Global Multiclass Classification from Heterogeneous Local Models. 2020
 https://arxiv.org/pdf/2005.10848.pdf
 Researcher: Stanford https://stanford.edu/~pilanci/
 
-Multi-Center Federated Learning
+Multi-Center Federated Learning. 2020
 https://arxiv.org/pdf/2005.01026.pdf
 
-Federated learning with hierarchical clustering of local updates to improve training on non-IID data
+Federated learning with hierarchical clustering of local updates to improve training on non-IID data. 2020
 https://arxiv.org/pdf/2004.11791.pdf
 
-Federated Learning with Only Positive Labels
+Federated Learning with Only Positive Labels. 2020
 https://arxiv.org/pdf/2004.10342.pdf
 Researcher: Felix Xinnan Yu, Google New York
 Keywords: positive labels
 Limited Labels
-Federated Semi-Supervised Learning with Inter-Client Consistency
+
+Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
 https://arxiv.org/pdf/2006.12097.pdf
 
 
 
-Architecture Search
-Differentially-private Federated Neural Architecture Search
+# Architecture Search
+Differentially-private Federated Neural Architecture Search. 2020
 https://arxiv.org/pdf/2006.10559.pdf
+
 Communication Compression
-NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning
+NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
 https://arxiv.org/pdf/2006.14591.pdf
 
 Scheduling Policy and Power Allocation for Federated Learning in NOMA Based MEC
