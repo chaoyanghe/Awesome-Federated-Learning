@@ -14,6 +14,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [FL System](#FL-System)
+ - [Distributed optimization](#Distributed-optimization)
  - [Benchmark/Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
 
