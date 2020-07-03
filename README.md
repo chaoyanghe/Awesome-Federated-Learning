@@ -12,7 +12,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Adversarial Attacks](#Adversarial-Attacks)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
- - [Blogs](#blogs)
+ - [Benchmark/Dataset](#Benchmark/Dataset)
  - [Links](#links)
  - [Songs](#songs)
 
@@ -353,7 +353,7 @@ Smart City:
 Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
 
-## Benchmark - Dataset
+## Benchmark/Dataset
 
 The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems
 https://arxiv.org/pdf/2006.07856.pdf
