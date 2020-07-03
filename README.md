@@ -6,7 +6,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 
 ## Research Areas
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
- - [Courses](#courses)
+ - [Architecture Search](#Architecture-Search)
  - [Papers](#papers)
  - [Software](#software)
  - [Datasets](#datasets)
@@ -77,11 +77,11 @@ https://arxiv.org/pdf/2006.12097.pdf
 
 
 
-# Architecture Search
+## Architecture Search
 Differentially-private Federated Neural Architecture Search. 2020
 https://arxiv.org/pdf/2006.10559.pdf
 
-Communication Compression
+## Communication Compression
 NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
 https://arxiv.org/pdf/2006.14591.pdf
 
@@ -99,13 +99,12 @@ Federated Learning With Quantized Global Model Updates
 https://arxiv.org/pdf/2006.10672.pdf
 Researcher: Mohammad Mohammadi Amiri, Princeton, Information Theory and Machine Learning
 
-
 Federated Learning with Compression: Unified Analysis and Sharp Guarantees
 https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-Wireless Communication / Fog Computing
+## Wireless Communication / Fog Computing
 Researcher: 
 H. Vincent Poor
 https://ee.princeton.edu/people/h-vincent-poor
@@ -168,7 +167,7 @@ https://arxiv.org/pdf/2004.09817.pdf
 
 
 
-Adversarial Attacks
+## Adversarial Attacks
 Legal Risks of Adversarial Machine Learning Research
 https://arxiv.org/pdf/2006.16179.pdf
 
@@ -214,7 +213,7 @@ Researcher: Wenqi Wei, Ling Liu, GaTech
 Data Poisoning Attacks on Federated Machine Learning
 https://arxiv.org/pdf/2004.10020.pdf
 
-Privacy
+## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
 https://arxiv.org/pdf/2006.08848.pdf
 
@@ -254,12 +253,11 @@ https://arxiv.org/pdf/2004.07427.pdf
 Researcher: Tencent Cloud, Libin Wang
 
 
-Fair
+## Fairness
 Hierarchically Fair Federated Learning
 https://arxiv.org/pdf/2004.10386.pdf
 
-
-Distributed optimization over multi-agent systems
+## Distributed optimization
 Local Stochastic Approximation: A Unified View of Federated Learning and Distributed Multi-Task Reinforcement Learning Algorithms
 https://arxiv.org/pdf/2006.13460.pdf
 
@@ -312,7 +310,7 @@ https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-Specific Models / Application
+## Models / Applications
 Discrete-Time Cox Models
 https://arxiv.org/pdf/2006.08997.pdf
 
@@ -355,12 +353,12 @@ Smart City:
 Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
 
-Benchmark
+## Benchmark
 
 The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems
 https://arxiv.org/pdf/2006.07856.pdf
 
-System
+## System
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
 https://arxiv.org/pdf/1907.09693.pdf
 
@@ -371,7 +369,6 @@ Researcher: Georgios Damaskinos, MLSys, https://people.epfl.ch/georgios.damaskin
 Heterogeneity-Aware Federated Learning
 https://arxiv.org/pdf/2006.06983.pdf
 Researcher: Mengwei Xu, PKU
-
 
 Responsive Web User Interface to Recover Training Data from User Gradients in Federated Learning
 https://ldp-machine-learning.herokuapp.com/
@@ -385,8 +382,7 @@ https://arxiv.org/pdf/2005.06850.pdf
 [startup] Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy
 https://arxiv.org/pdf/2007.00914.pdf
 
-Survey
-
+## Survey
 
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
 https://arxiv.org/pdf/1907.09693.pdf
