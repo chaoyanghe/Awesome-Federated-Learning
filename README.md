@@ -5,7 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 3rd, 2020</strong>.	
 
 ## Research Areas
- - [Non-IID, Model Personalization](#Non-IID and Model Personalization)
+ - [Non-IID, Model Personalization](#Non-IID-and-Model-Personalization)
  - [Courses](#courses)
  - [Papers](#papers)
  - [Software](#software)
