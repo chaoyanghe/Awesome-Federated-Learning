@@ -4,6 +4,18 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 
 <strong>Last Update: July 3rd, 2020</strong>.	
 
+## Table of Contents
+ - [Non-IID, Model Personalization](#noniid)
+ - [Courses](#courses)
+ - [Papers](#papers)
+ - [Software](#software)
+ - [Datasets](#datasets)
+ - [Tutorials and Talks](#tutorials-and-talks)
+ - [Resources for students](#resources-for-students)
+ - [Blogs](#blogs)
+ - [Links](#links)
+ - [Songs](#songs)
+
 ## Non-IID, Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
