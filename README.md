@@ -9,13 +9,13 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Communication Compression](#Communication-Compression)
- - [Wireless Communication, Edge Computing, Fog Computing](#Wireless-Communication-, -Edge Computing-, -Fog Computing)
+ - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing)
  - [Computation Efficiency](#Computation-Efficiency)
  - [Adversarial Attacks](#Adversarial-Attacks)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [FL System](#FL-System)
- - [Benchmark/Dataset](#Benchmark-and-Dataset)
+ - [Benchmark and Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
 
 ## Distributed optimization
@@ -159,7 +159,7 @@ https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-## Wireless Communication, Edge Computing, Fog Computing
+## Wireless Communication and Fog Computing
 Researcher: 
 H. Vincent Poor
 https://ee.princeton.edu/people/h-vincent-poor
