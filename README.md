@@ -5,7 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 3rd, 2020</strong>.	
 
 ## Research Areas
- - [Non-IID, Model Personalization](#Non-IID, Model Personalization)
+ - [Non-IID, Model Personalization](#Non-IID and Model Personalization)
  - [Courses](#courses)
  - [Papers](#papers)
  - [Software](#software)
@@ -16,7 +16,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Links](#links)
  - [Songs](#songs)
 
-## Non-IID, Model Personalization
+## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
 https://arxiv.org/pdf/2006.09637.pdf
