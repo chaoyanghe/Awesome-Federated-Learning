@@ -12,9 +12,9 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Adversarial Attacks](#Adversarial-Attacks)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
+ - [System](#System)
  - [Benchmark/Dataset](#Benchmark/Dataset)
- - [Links](#links)
- - [Songs](#songs)
+ - [Survey](#Survey)
 
 ## Non-IID and Model Personalization
 
