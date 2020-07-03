@@ -1,5 +1,8 @@
 # Awesome-Federated-Learning
 
+A curated list of federated learning publications, reorgnized from Arxiv.
+Last Update: July 3rd, 2020
+
 ## Non-IID, Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
