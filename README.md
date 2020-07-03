@@ -8,12 +8,13 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Communication Compression](#Communication-Compression)
- - [Wireless Communication - Edge Computing - Fog Computing](#Wireless Communication - Edge Computing - Fog Computing)
+ - [Wireless Communication, Edge Computing, Fog Computing](#Wireless-Communication-, -Edge Computing-, -Fog Computing)
+ - [Computation Efficiency](#Computation-Efficiency)
  - [Adversarial Attacks](#Adversarial-Attacks)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
- - [System](#System)
- - [Benchmark/Dataset](#Benchmark/Dataset)
+ - [FL System](#FL-System)
+ - [Benchmark/Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
 
 ## Non-IID and Model Personalization
@@ -104,7 +105,7 @@ https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-## Wireless Communication - Edge Computing - Fog Computing
+## Wireless Communication, Edge Computing, Fog Computing
 Researcher: 
 H. Vincent Poor
 https://ee.princeton.edu/people/h-vincent-poor
@@ -154,7 +155,8 @@ https://arxiv.org/pdf/2004.08488.pdf
 
 On the Design of Communication Efficient Federated Learning over Wireless Networks
 https://arxiv.org/pdf/2004.07351.pdf
-Computation Efficiency
+
+## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
 
@@ -353,12 +355,12 @@ Smart City:
 Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
 
-## Benchmark/Dataset
+## Benchmark and Dataset
 
 The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems
 https://arxiv.org/pdf/2006.07856.pdf
 
-## System
+## FL System
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
 https://arxiv.org/pdf/1907.09693.pdf
 
