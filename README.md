@@ -4,14 +4,14 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 
 <strong>Last Update: July 3rd, 2020</strong>.	
 
-## Research Areas
+## Research Areas, Paper Category
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
- - [Architecture Search](#Architecture-Search)
- - [Papers](#papers)
- - [Software](#software)
- - [Datasets](#datasets)
- - [Tutorials and Talks](#tutorials-and-talks)
- - [Resources for students](#resources-for-students)
+ - [Neural Architecture Search](#Neural-Architecture-Search)
+ - [Communication Compression](#Communication-Compression)
+ - [Wireless Communication - Edge Computing - Fog Computing](#Wireless Communication - Edge Computing - Fog Computing)
+ - [Adversarial Attacks](#Adversarial-Attacks)
+ - [Privacy](#Privacy)
+ - [Fairness](#Fairness)
  - [Blogs](#blogs)
  - [Links](#links)
  - [Songs](#songs)
@@ -77,7 +77,7 @@ https://arxiv.org/pdf/2006.12097.pdf
 
 
 
-## Architecture Search
+## Neural Architecture Search
 Differentially-private Federated Neural Architecture Search. 2020
 https://arxiv.org/pdf/2006.10559.pdf
 
@@ -104,7 +104,7 @@ https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-## Wireless Communication / Fog Computing
+## Wireless Communication - Edge Computing - Fog Computing
 Researcher: 
 H. Vincent Poor
 https://ee.princeton.edu/people/h-vincent-poor
@@ -310,7 +310,7 @@ https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-## Models / Applications
+## Models - Applications
 Discrete-Time Cox Models
 https://arxiv.org/pdf/2006.08997.pdf
 
@@ -353,7 +353,7 @@ Smart City:
 Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
 
-## Benchmark
+## Benchmark - Dataset
 
 The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems
 https://arxiv.org/pdf/2006.07856.pdf
