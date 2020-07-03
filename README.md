@@ -5,6 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 3rd, 2020</strong>.	
 
 ## Research Areas, Paper Category
+ - [Distributed optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Communication Compression](#Communication-Compression)
@@ -14,9 +15,61 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [FL System](#FL-System)
- - [Distributed optimization](#Distributed-optimization)
  - [Benchmark/Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
+
+## Distributed optimization
+Local Stochastic Approximation: A Unified View of Federated Learning and Distributed Multi-Task Reinforcement Learning Algorithms
+https://arxiv.org/pdf/2006.13460.pdf
+
+Researcher: 
+Thinh T. Doan
+https://sites.google.com/site/thinhdoan210/home
+
+Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning
+https://arxiv.org/pdf/2005.06105.pdf
+
+Exact Support Recovery in Federated Regression with One-shot Communication
+https://arxiv.org/pdf/2006.12583.pdf
+
+DEED: A General Quantization Scheme for Communication Efficiency in Bits
+https://arxiv.org/pdf/2006.11401.pdf
+Researcher: Ruoyu Sun, UIUC
+
+Robust Federated Learning: The Case of Affine Distribution Shifts
+https://arxiv.org/pdf/2006.08907.pdf
+Researcher: Ramtin Pedarsani, UCSB
+Amirhossein Reisizadeh, PhD, UCSB
+
+Personalized Federated Learning with Moreau Envelopes
+https://arxiv.org/pdf/2006.08848.pdf
+
+Towards Flexible Device Participation in Federated Learning for Non-IID Data
+https://arxiv.org/pdf/2006.06954.pdf
+Keywords: inactive or return incomplete updates in non-IID dataset
+
+A Primal-Dual SGD Algorithm for Distributed Nonconvex Optimization
+https://arxiv.org/pdf/2006.03474.pdf
+
+FedPD: A Federated Learning Framework with Optimal Rates and Adaptivity to Non-IID Data
+https://arxiv.org/pdf/2005.11418.pdf
+Researcher: Wotao Yin, UCLA
+
+FedSplit: An algorithmic framework for fast federated optimization
+https://arxiv.org/pdf/2005.05238.pdf
+
+Distributed Stochastic Non-Convex Optimization: Momentum-Based Variance Reduction
+https://arxiv.org/pdf/2005.00224.pdf
+
+On the Outsized Importance of Learning Rates in Local Update Methods
+https://arxiv.org/pdf/2007.00878.pdf
+Highlight: local model learning rate optimization + automation
+Researcher: Jakub
+
+Federated Learning with Compression: Unified Analysis and Sharp Guarantees
+https://arxiv.org/pdf/2007.01154.pdf
+Highlight: non-IID, gradient compression + local SGD
+Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
 ## Non-IID and Model Personalization
 
@@ -259,59 +312,6 @@ Researcher: Tencent Cloud, Libin Wang
 ## Fairness
 Hierarchically Fair Federated Learning
 https://arxiv.org/pdf/2004.10386.pdf
-
-## Distributed optimization
-Local Stochastic Approximation: A Unified View of Federated Learning and Distributed Multi-Task Reinforcement Learning Algorithms
-https://arxiv.org/pdf/2006.13460.pdf
-
-Researcher: 
-Thinh T. Doan
-https://sites.google.com/site/thinhdoan210/home
-
-Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning
-https://arxiv.org/pdf/2005.06105.pdf
-
-Exact Support Recovery in Federated Regression with One-shot Communication
-https://arxiv.org/pdf/2006.12583.pdf
-
-DEED: A General Quantization Scheme for Communication Efficiency in Bits
-https://arxiv.org/pdf/2006.11401.pdf
-Researcher: Ruoyu Sun, UIUC
-
-Robust Federated Learning: The Case of Affine Distribution Shifts
-https://arxiv.org/pdf/2006.08907.pdf
-Researcher: Ramtin Pedarsani, UCSB
-Amirhossein Reisizadeh, PhD, UCSB
-
-Personalized Federated Learning with Moreau Envelopes
-https://arxiv.org/pdf/2006.08848.pdf
-
-Towards Flexible Device Participation in Federated Learning for Non-IID Data
-https://arxiv.org/pdf/2006.06954.pdf
-Keywords: inactive or return incomplete updates in non-IID dataset
-
-A Primal-Dual SGD Algorithm for Distributed Nonconvex Optimization
-https://arxiv.org/pdf/2006.03474.pdf
-
-FedPD: A Federated Learning Framework with Optimal Rates and Adaptivity to Non-IID Data
-https://arxiv.org/pdf/2005.11418.pdf
-Researcher: Wotao Yin, UCLA
-
-FedSplit: An algorithmic framework for fast federated optimization
-https://arxiv.org/pdf/2005.05238.pdf
-
-Distributed Stochastic Non-Convex Optimization: Momentum-Based Variance Reduction
-https://arxiv.org/pdf/2005.00224.pdf
-
-On the Outsized Importance of Learning Rates in Local Update Methods
-https://arxiv.org/pdf/2007.00878.pdf
-Highlight: local model learning rate optimization + automation
-Researcher: Jakub
-
-Federated Learning with Compression: Unified Analysis and Sharp Guarantees
-https://arxiv.org/pdf/2007.01154.pdf
-Highlight: non-IID, gradient compression + local SGD
-Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
 ## Models - Applications
 Discrete-Time Cox Models
