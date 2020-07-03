@@ -15,7 +15,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [FL System](#FL-System)
- - [Models and Applications](#Models and Applications)
+ - [Models and Applications](#Models-and-Applications)
  - [Benchmark and Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
 
@@ -311,10 +311,12 @@ Researcher: Tencent Cloud, Libin Wang
 
 
 ## Fairness
+
 Hierarchically Fair Federated Learning
 https://arxiv.org/pdf/2004.10386.pdf
 
 ## Models and Applications
+
 Discrete-Time Cox Models
 https://arxiv.org/pdf/2006.08997.pdf
 
