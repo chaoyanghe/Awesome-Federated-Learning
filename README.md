@@ -5,7 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 3rd, 2020</strong>.	
 
 ## Research Areas, Paper Category
- - [Distributed optimization](#Distributed-optimization)
+ - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Communication Compression](#Communication-Compression)
