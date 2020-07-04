@@ -8,6 +8,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Neural Architecture Search](#Neural-Architecture-Search)
+ - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  - [Communication Compression](#Communication-Compression)
  - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing)
  - [Computation Efficiency](#Computation-Efficiency)
@@ -137,6 +138,18 @@ https://arxiv.org/pdf/2006.12097.pdf
 Differentially-private Federated Neural Architecture Search. 2020
 https://arxiv.org/pdf/2006.10559.pdf
 
+## Transfer Learning
+Decentralized Differentially Private Segmentation with PATE. 2020-04
+https://arxiv.org/pdf/2004.06567.pdf \
+Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for deep learning from private training data"
+
+## Semi-Supervised Learning
+Semisupervised knowledge transfer for deep learning from private training data. ICLR 2017
+https://arxiv.org/pdf/1610.05755.pdf
+
+Scalable private learning with PATE. ICLR 2018. 
+https://arxiv.org/abs/1802.08908
+
 ## Communication Compression
 NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
 https://arxiv.org/pdf/2006.14591.pdf
@@ -222,7 +235,8 @@ https://arxiv.org/pdf/2004.12088.pdf
 Lottery Hypothesis based Unsupervised Pre-training for Model Compression in Federated Learning
 https://arxiv.org/pdf/2004.09817.pdf
 
-
+Secure Federated Learning in 5G Mobile Networks. 2020/04
+https://arxiv.org/pdf/2004.06700.pdf 
 
 ## Adversarial Attacks
 Legal Risks of Adversarial Machine Learning Research
