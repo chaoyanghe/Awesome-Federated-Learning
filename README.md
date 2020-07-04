@@ -95,6 +95,18 @@ https://arxiv.org/pdf/2002.08958.pdf
 Dynamic Federated Learning
 https://arxiv.org/pdf/2002.08782.pdf
 
+Distributed Optimization over Block-Cyclic Data
+https://arxiv.org/pdf/2002.07454.pdf
+
+Distributed Non-Convex Optimization with Sublinear Speedup under Intermittent Client Availability
+https://arxiv.org/pdf/2002.07399.pdf
+
+Federated Learning with Matched Averaging
+https://arxiv.org/pdf/2002.06440.pdf
+
+Federated Learning of a Mixture of Global and Local Models
+https://arxiv.org/pdf/2002.05516.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -175,6 +187,16 @@ https://arxiv.org/pdf/2002.10671.pdf
 Three Approaches for Personalization with Applications to Federated Learning
 https://arxiv.org/pdf/2002.10619.pdf
 
+Personalized Federated Learning: A Meta-Learning Approach
+https://arxiv.org/pdf/2002.07948.pdf
+
+Towards Federated Learning: Robustness Analytics to Data Heterogeneity
+https://arxiv.org/pdf/2002.05038.pdf
+Highlight: non-IID + adversarial attacks
+
+Salvaging Federated Learning by Local Adaptation
+https://arxiv.org/pdf/2002.04758.pdf
+Highlight: an experimental paper that evaluate FL can help to improve the local accuracy
 
 ## Neural Architecture Search
 FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18
@@ -347,6 +369,12 @@ https://arxiv.org/pdf/2002.12507.pdf
 HFEL: Joint Edge Association and Resource Allocation for Cost-Efficient Hierarchical Federated Edge Learning
 https://arxiv.org/pdf/2002.11343.pdf
 
+Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms
+https://arxiv.org/pdf/2002.08196.pdf
+
+Wireless Federated Learning with Local Differential Privacy
+https://arxiv.org/pdf/2002.05151.pdf
+
 
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
@@ -422,7 +450,6 @@ https://arxiv.org/pdf/2003.00937.pdf
 
 Stochastic-Sign SGD for Federated Learning with Theoretical Guarantees
 https://arxiv.org/pdf/2002.10940.pdf
-
 
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
@@ -510,6 +537,12 @@ https://arxiv.org/pdf/2005.03793.pdf
 
 (VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection
 https://arxiv.org/pdf/2002.12301.pdf
+
+Federated Extra-Trees with Privacy Preserving
+https://arxiv.org/pdf/2002.07323.pdf
+
+(Clustering) Federated Clustering via Matrix Factorization Models: From Model Averaging to Gradient Sharing
+https://arxiv.org/pdf/2002.04930.pdf
 
 ### Natural language Processing
 generative sequence models (e.g., language models)
