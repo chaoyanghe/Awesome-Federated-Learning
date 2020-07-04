@@ -82,6 +82,12 @@ https://arxiv.org/pdf/2003.12880.pdf
 Adaptive Federated Optimization. ICML 2020. 2020-02-29
 https://arxiv.org/pdf/2003.00295.pdf
 
+Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization. ICML 2020.
+https://arxiv.org/pdf/2002.11364.pdf
+
+LASG: Lazily Aggregated Stochastic Gradients for Communication-Efficient Distributed Learning
+https://arxiv.org/pdf/2002.11360.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -152,6 +158,15 @@ https://arxiv.org/pdf/2003.12795.pdf
 
 Survey of Personalization Techniques for Federated Learning. 2020-03-19
 https://arxiv.org/pdf/2003.08673.pdf
+
+Device Heterogeneity in Federated Learning: A Superquantile Approach. 2020-02
+https://arxiv.org/pdf/2002.11223.pdf
+
+Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework
+https://arxiv.org/pdf/2002.10671.pdf
+
+Three Approaches for Personalization with Applications to Federated Learning
+https://arxiv.org/pdf/2002.10619.pdf
 
 
 ## Neural Architecture Search
@@ -314,6 +329,10 @@ https://arxiv.org/pdf/2002.12873.pdf
 Decentralized Federated Learning via SGD over Wireless D2D Networks
 https://arxiv.org/pdf/2002.12507.pdf
 
+HFEL: Joint Edge Association and Resource Allocation for Cost-Efficient Hierarchical Federated Edge Learning
+https://arxiv.org/pdf/2002.11343.pdf
+
+
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
@@ -386,6 +405,10 @@ https://arxiv.org/pdf/2003.07630.pdf
 BASGD: Buffered Asynchronous SGD for Byzantine Learning
 https://arxiv.org/pdf/2003.00937.pdf
 
+Stochastic-Sign SGD for Federated Learning with Theoretical Guarantees
+https://arxiv.org/pdf/2002.10940.pdf
+
+
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
 https://arxiv.org/pdf/2006.08848.pdf
@@ -446,11 +469,17 @@ https://arxiv.org/pdf/2003.10637.pdf
 Decentralized Policy-Based Private Analytics
 https://arxiv.org/pdf/2003.06612.pdf
 
+Practical and Bilateral Privacy-preserving Federated Learning
+https://arxiv.org/pdf/2002.09843.pdf
 
 ## Fairness
 
 Hierarchically Fair Federated Learning
 https://arxiv.org/pdf/2004.10386.pdf
+
+## incentive mechanism
+FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC. ICDCS 2020
+https://arxiv.org/pdf/2002.09699.pdf
 
 ## Models and Applications
 
@@ -611,3 +640,6 @@ https://arxiv.org/pdf/2003.02133.pdf
 
 Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective
 https://arxiv.org/pdf/2002.11545.pdf
+
+Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art
+https://arxiv.org/pdf/2002.10610.pdf
