@@ -107,6 +107,9 @@ https://arxiv.org/pdf/2002.06440.pdf
 Federated Learning of a Mixture of Global and Local Models
 https://arxiv.org/pdf/2002.05516.pdf
 
+Faster On-Device Training Using New Federated Momentum Algorithm
+https://arxiv.org/pdf/2002.02090.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -275,6 +278,9 @@ https://arxiv.org/pdf/2002.09692.pdf
 
 Coded Federated Learning. Presented at the Wireless Edge Intelligence Workshop, IEEE GLOBECOM 2019
 https://arxiv.org/pdf/2002.09574.pdf
+
+Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning
+https://arxiv.org/pdf/2002.04156.pdf
 
 ## Wireless Communication and Fog Computing and Internet Of Things
 Researcher: 
