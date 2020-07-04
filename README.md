@@ -89,6 +89,12 @@ https://arxiv.org/pdf/2002.11364.pdf
 LASG: Lazily Aggregated Stochastic Gradients for Communication-Efficient Distributed Learning
 https://arxiv.org/pdf/2002.11360.pdf
 
+Uncertainty Principle for Communication Compression in Distributed and Federated Learning and the Search for an Optimal Compressor
+https://arxiv.org/pdf/2002.08958.pdf
+
+Dynamic Federated Learning
+https://arxiv.org/pdf/2002.08782.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -205,7 +211,7 @@ https://arxiv.org/abs/1802.08908
 Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
 https://arxiv.org/pdf/2006.12097.pdf
 
-## Communication Compression
+## Communication Efficiency
 NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
 https://arxiv.org/pdf/2006.14591.pdf
 
@@ -239,6 +245,14 @@ https://arxiv.org/pdf/2003.03564.pdf
 
 Gradient Statistics Aware Power Control for Over-the-Air Federated Learning
 https://arxiv.org/pdf/2003.02089.pdf
+
+Communication-Efficient Decentralized Learning with Sparsification and Adaptive Peer Selection
+https://arxiv.org/pdf/2002.09692.pdf
+
+## Straggler Problem
+
+Coded Federated Learning. Presented at the Wireless Edge Intelligence Workshop, IEEE GLOBECOM 2019
+https://arxiv.org/pdf/2002.09574.pdf
 
 ## Wireless Communication and Fog Computing and Internet Of Things
 Researcher: 
@@ -473,6 +487,9 @@ https://arxiv.org/pdf/2003.06612.pdf
 Practical and Bilateral Privacy-preserving Federated Learning
 https://arxiv.org/pdf/2002.09843.pdf
 
+Anonymizing Data for Privacy-Preserving Federated Learning
+https://arxiv.org/pdf/2002.09096.pdf
+
 ## Fairness
 
 Hierarchically Fair Federated Learning
@@ -524,6 +541,9 @@ https://arxiv.org/pdf/2004.12321.pdf
 
 The Future of Digital Health with Federated Learning
 https://arxiv.org/pdf/2003.08119.pdf
+
+Anonymizing Data for Privacy-Preserving Federated Learning. ECAI 2020.
+https://arxiv.org/pdf/2002.09096.pdf
 
 ### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
@@ -586,6 +606,9 @@ https://arxiv.org/pdf/2006.07856.pdf
 
 Evaluation Framework For Large-scale Federated Learning
 https://arxiv.org/pdf/2003.01575.pdf
+
+(*) PrivacyFL: A simulator for privacy-preserving and secure federated learning. MIT CSAIL.
+https://arxiv.org/pdf/2002.08423.pdf
 
 ## FL System
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
