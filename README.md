@@ -423,6 +423,12 @@ https://arxiv.org/pdf/2001.10402.pdf
 Communication Efficient Federated Learning over Multiple Access Channels
 https://arxiv.org/pdf/2001.08737.pdf
 
+Convergence Time Optimization for Federated Learning over Wireless Networks
+https://arxiv.org/pdf/2001.07845.pdf
+
+One-Bit Over-the-Air Aggregation for Communication-Efficient Federated Edge Learning: Design and Convergence Analysis
+https://arxiv.org/pdf/2001.05713.pdf
+
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
@@ -610,6 +616,9 @@ https://arxiv.org/pdf/2005.14638.pdf
 (*) Federated Visual Classification with Real-World Data Distribution. MIT. ECCV 2020. 2020-03
 https://arxiv.org/pdf/2003.08082.pdf
 
+FedVision: An Online Visual Object Detection Platform Powered by Federated Learning
+https://arxiv.org/pdf/2001.06202.pdf
+
 ### Health Care: 
 Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention
 https://arxiv.org/pdf/2006.10517.pdf
@@ -632,6 +641,9 @@ https://arxiv.org/pdf/2001.09751.pdf
 
 Stratified cross-validation for unbiased and privacy-preserving federated learning
 https://arxiv.org/pdf/2001.08090.pdf
+
+Multi-site fMRI Analysis Using Privacy-preserving Federated Learning and Domain Adaptation: ABIDE Results
+https://arxiv.org/pdf/2001.05647.pdf
 
 ### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
@@ -665,6 +677,9 @@ https://arxiv.org/pdf/2005.10406.pdf
 ### Smart City
 Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
+
+Exploiting Unlabeled Data in Smart Cities using Federated Learning
+https://arxiv.org/pdf/2001.04030.pdf
 
 ### Recommendation System
 (*) Federated Multi-view Matrix Factorization for Personalized Recommendations
@@ -734,6 +749,9 @@ https://arxiv.org/pdf/2001.09249.pdf
 
 FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC. ICDCS 2020 (2020 International Conference on Distributed Computing Systems)
 https://arxiv.org/pdf/2002.09699.pdf
+
+Adaptive Gradient Sparsification for Efficient Federated Learning: An Online Learning Approach. ICDCS 2020 (2020 International Conference on Distributed Computing Systems)
+https://arxiv.org/pdf/2001.04756.pdf
 
 ## Survey
 
