@@ -73,6 +73,12 @@ https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
+From Local SGD to Local Fixed-Point Methods for Federated Learning
+https://arxiv.org/pdf/2004.01442.pdf
+
+Federated Residual Learning. 2020-03
+https://arxiv.org/pdf/2003.12880.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -92,7 +98,7 @@ https://arxiv.org/pdf/2006.07242.pdf
 Researcher: Tao Lin, ZJU, EPFL https://tlin-tao-lin.github.io/index.html
 
 Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. 2020
-
+https://arxiv.org/pdf/2005.06105.pdf
 
 Towards Flexible Device Participation in Federated Learning for Non-IID Data. 2020
 https://arxiv.org/pdf/2006.06954.pdf
@@ -135,6 +141,12 @@ https://arxiv.org/pdf/2006.12097.pdf
 (*) FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning. CMU ECE. 2020-04-07
 https://arxiv.org/pdf/2004.03657.pdf
 
+(*) Adaptive Personalized Federated Learning
+https://arxiv.org/pdf/2003.13461.pdf
+
+Semi-Federated Learning
+https://arxiv.org/pdf/2003.12795.pdf
+
 
 ## Neural Architecture Search
 Differentially-private Federated Neural Architecture Search. 2020
@@ -145,12 +157,18 @@ Decentralized Differentially Private Segmentation with PATE. 2020-04
 https://arxiv.org/pdf/2004.06567.pdf \
 Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for deep learning from private training data"
 
+Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. 2020
+https://arxiv.org/pdf/2005.06105.pdf
+
 ## Semi-Supervised Learning
 Semisupervised knowledge transfer for deep learning from private training data. ICLR 2017
 https://arxiv.org/pdf/1610.05755.pdf
 
 Scalable private learning with PATE. ICLR 2018. 
 https://arxiv.org/abs/1802.08908
+
+Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
+https://arxiv.org/pdf/2006.12097.pdf
 
 ## Communication Compression
 NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
@@ -174,6 +192,9 @@ Federated Learning with Compression: Unified Analysis and Sharp Guarantees
 https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
+
+Evaluating the Communication Efficiency in Federated Learning Algorithm
+https://arxiv.org/pdf/2004.02738.pdf
 
 ## Wireless Communication and Fog Computing
 Researcher: 
@@ -234,6 +255,13 @@ https://arxiv.org/pdf/2004.04314.pdf
 
 Resource Management for Blockchain-enabled Federated Learning: A Deep Reinforcement Learning Approach
 https://arxiv.org/pdf/2004.04104.pdf
+
+A Blockchain-based Decentralized Federated Learning Framework with Committee Consensus
+https://arxiv.org/pdf/2004.00773.pdf
+
+Scheduling for Cellular Federated Edge Learning with Importance and Channel. 2020-04
+https://arxiv.org/pdf/2004.00490.pdf
+
 
 
 ## Computation Efficiency
@@ -347,6 +375,12 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 
 Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise. 2020-04. https://arxiv.org/pdf/2004.06337.pdf
 
+PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks
+https://arxiv.org/pdf/2004.02264.pdf
+
+Inverting Gradients - How easy is it to break privacy in federated learning?
+https://arxiv.org/pdf/2003.14053.pdf
+
 ## Fairness
 
 Hierarchically Fair Federated Learning
@@ -390,6 +424,12 @@ https://arxiv.org/pdf/2006.01412.pdf
 
 Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach
 https://arxiv.org/pdf/2004.03877.pdf
+
+Federated Learning Meets Contract Theory: Energy-Efficient Framework for Electric Vehicle Networks
+https://arxiv.org/pdf/2004.01828.pdf
+
+Beyond privacy regulations: an ethical approach to data usage in transportation. TomTom. 2020-04-01
+https://arxiv.org/pdf/2004.00491.pdf
 
 ### Speech Recognition:
 Training Keyword Spotting Models on Non-IID Data with Federated Learning
