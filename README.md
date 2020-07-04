@@ -147,6 +147,9 @@ https://arxiv.org/pdf/2003.13461.pdf
 Semi-Federated Learning
 https://arxiv.org/pdf/2003.12795.pdf
 
+Survey of Personalization Techniques for Federated Learning. 2020-03-19
+https://arxiv.org/pdf/2003.08673.pdf
+
 
 ## Neural Architecture Search
 Differentially-private Federated Neural Architecture Search. 2020
@@ -195,6 +198,9 @@ Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
 Evaluating the Communication Efficiency in Federated Learning Algorithm
 https://arxiv.org/pdf/2004.02738.pdf
+
+Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
+https://arxiv.org/pdf/2003.09603.pdf
 
 ## Wireless Communication and Fog Computing and Internet Of Things
 Researcher: 
@@ -262,7 +268,11 @@ https://arxiv.org/pdf/2004.00773.pdf
 Scheduling for Cellular Federated Edge Learning with Importance and Channel. 2020-04
 https://arxiv.org/pdf/2004.00490.pdf
 
+Differentially Private Federated Learning for Resource-Constrained Internet of Things. 2020-03
 https://arxiv.org/pdf/2003.12705.pdf
+
+Federated Learning for Task and Resource Allocation in Wireless High Altitude Balloon Networks. 2020-03
+https://arxiv.org/pdf/2003.09375.pdf
 
 
 
@@ -383,6 +393,12 @@ https://arxiv.org/pdf/2004.02264.pdf
 Inverting Gradients - How easy is it to break privacy in federated learning?
 https://arxiv.org/pdf/2003.14053.pdf
 
+Learn to Forget: User-Level Memorization Elimination in Federated Learning
+https://arxiv.org/pdf/2003.10933.pdf
+
+FedSel: Federated SGD under Local Differential Privacy with Top-k Dimension Selection
+https://arxiv.org/pdf/2003.10637.pdf
+
 ## Fairness
 
 Hierarchically Fair Federated Learning
@@ -405,9 +421,15 @@ https://arxiv.org/pdf/2006.07490.pdf
 Pretraining Federated Text Models for Next Word Prediction
 https://arxiv.org/pdf/2005.04828.pdf
 
+FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning. MSRA. 2020-03.
+https://arxiv.org/pdf/2003.09288.pdf
+
 ### Computer Vision
 Federated Face Anti-spoofing
 https://arxiv.org/pdf/2005.14638.pdf
+
+(*) Federated Visual Classification with Real-World Data Distribution. MIT. ECCV 2020. 2020-03
+https://arxiv.org/pdf/2003.08082.pdf
 
 ### Health Care: 
 Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention
@@ -419,6 +441,9 @@ Keywords: Split Learning + Sparsification
 
 Federated Transfer Learning for EEG Signal Classification
 https://arxiv.org/pdf/2004.12321.pdf
+
+The Future of Digital Health with Federated Learning
+https://arxiv.org/pdf/2003.08119.pdf
 
 ### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
@@ -432,6 +457,9 @@ https://arxiv.org/pdf/2004.01828.pdf
 
 Beyond privacy regulations: an ethical approach to data usage in transportation. TomTom. 2020-04-01
 https://arxiv.org/pdf/2004.00491.pdf
+
+Privacy-preserving Traffic Flow Prediction: A Federated Learning Approach
+https://arxiv.org/pdf/2003.08725.pdf
 
 ### Speech Recognition:
 Training Keyword Spotting Models on Non-IID Data with Federated Learning
@@ -450,6 +478,10 @@ https://arxiv.org/pdf/2006.08259.pdf
 
 Federated Recommendation System via Differential Privacy
 https://arxiv.org/pdf/2005.06670.pdf
+
+FedRec: Privacy-Preserving News Recommendation with Federated Learning. MSRA. 2020-03
+https://arxiv.org/pdf/2003.09592.pdf
+
 
 ## Benchmark and Dataset
 
@@ -500,3 +532,6 @@ https://arxiv.org/pdf/2006.02931.pdf
 
 A Review of Privacy Preserving Federated Learning for Private IoT Analytics
 https://arxiv.org/pdf/2004.11794.pdf
+
+Survey of Personalization Techniques for Federated Learning. 2020-03-19
+https://arxiv.org/pdf/2003.08673.pdf
