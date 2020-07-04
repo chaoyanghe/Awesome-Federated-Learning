@@ -392,7 +392,7 @@ Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
 
 ### Recommendation System
-Federated Multi-view Matrix Factorization for Personalized Recommendations
+(*) Federated Multi-view Matrix Factorization for Personalized Recommendations
 https://arxiv.org/pdf/2004.04256.pdf
 
 Robust Federated Recommendation System
