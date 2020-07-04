@@ -224,6 +224,13 @@ https://arxiv.org/pdf/2004.08488.pdf
 On the Design of Communication Efficient Federated Learning over Wireless Networks
 https://arxiv.org/pdf/2004.07351.pdf
 
+Federated Machine Learning for Intelligent IoT via Reconfigurable Intelligent Surface
+https://arxiv.org/pdf/2004.05843.pdf
+
+Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A Long-Term Perspective
+https://arxiv.org/pdf/2004.04314.pdf
+
+
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
@@ -284,6 +291,12 @@ Researcher: Wenqi Wei, Ling Liu, GaTech
 Data Poisoning Attacks on Federated Machine Learning
 https://arxiv.org/pdf/2004.10020.pdf
 
+Towards Realistic Byzantine-Robust Federated Learning
+https://arxiv.org/pdf/2004.04986.pdf
+
+An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies
+https://arxiv.org/pdf/2004.04676.pdf
+
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
 https://arxiv.org/pdf/2006.08848.pdf
@@ -323,6 +336,11 @@ Asymmetrical Vertical Federated Learning
 https://arxiv.org/pdf/2004.07427.pdf
 Researcher: Tencent Cloud, Libin Wang
 
+Decentralized Differentially Private Segmentation with PATE. 2020-04
+https://arxiv.org/pdf/2004.06567.pdf \
+Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for deep learning from private training data"
+
+Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise. 2020-04. https://arxiv.org/pdf/2004.06337.pdf
 
 ## Fairness
 
@@ -331,6 +349,7 @@ https://arxiv.org/pdf/2004.10386.pdf
 
 ## Models and Applications
 
+# Models
 Discrete-Time Cox Models
 https://arxiv.org/pdf/2006.08997.pdf
 
@@ -338,19 +357,18 @@ GAN
 Federated Generative Adversarial Learning
 https://arxiv.org/pdf/2005.03793.pdf
 
-Natural language Processing
+### Natural language Processing
 generative sequence models (e.g., language models)
 https://arxiv.org/pdf/2006.07490.pdf
 
 Pretraining Federated Text Models for Next Word Prediction
 https://arxiv.org/pdf/2005.04828.pdf
 
-Computer Vision
+### Computer Vision
 Federated Face Anti-spoofing
 https://arxiv.org/pdf/2005.14638.pdf
 
-
-Health Care: 
+### Health Care: 
 Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention
 https://arxiv.org/pdf/2006.10517.pdf
 
@@ -361,17 +379,27 @@ Keywords: Split Learning + Sparsification
 Federated Transfer Learning for EEG Signal Classification
 https://arxiv.org/pdf/2004.12321.pdf
 
-Vehicular Networks:
+### Vehicular Networks:
 Federated Learning for Vehicular Networks
 https://arxiv.org/pdf/2006.01412.pdf
 
-Speech Recognition:
+### Speech Recognition:
 Training Keyword Spotting Models on Non-IID Data with Federated Learning
 https://arxiv.org/pdf/2005.10406.pdf
 
-Smart City:
+### Smart City
 Cloud-based Federated Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/2005.05304.pdf
+
+### Recommendation System
+Federated Multi-view Matrix Factorization for Personalized Recommendations
+https://arxiv.org/pdf/2004.04256.pdf
+
+Robust Federated Recommendation System
+https://arxiv.org/pdf/2006.08259.pdf
+
+Federated Recommendation System via Differential Privacy
+https://arxiv.org/pdf/2005.06670.pdf
 
 ## Benchmark and Dataset
 
