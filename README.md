@@ -15,6 +15,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Adversarial Attacks](#Adversarial-Attacks)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
+ - [Incentive Mechanism](#Incentive-Mechanism)
  - [FL System](#FL-System)
  - [Models and Applications](#Models-and-Applications)
  - [Benchmark and Dataset](#Benchmark-and-Dataset)
@@ -477,19 +478,21 @@ https://arxiv.org/pdf/2002.09843.pdf
 Hierarchically Fair Federated Learning
 https://arxiv.org/pdf/2004.10386.pdf
 
-## incentive mechanism
+## Incentive Mechanism
 FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC. ICDCS 2020
 https://arxiv.org/pdf/2002.09699.pdf
 
 ## Models and Applications
 
-# Models
+### Models
 Discrete-Time Cox Models
 https://arxiv.org/pdf/2006.08997.pdf
 
-GAN
-Federated Generative Adversarial Learning
+(GAN) Federated Generative Adversarial Learning
 https://arxiv.org/pdf/2005.03793.pdf
+
+(VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection
+https://arxiv.org/pdf/2002.12301.pdf
 
 ### Natural language Processing
 generative sequence models (e.g., language models)
@@ -571,9 +574,6 @@ https://arxiv.org/pdf/2003.09592.pdf
 Federating Recommendations Using Differentially Private Prototypes
 https://arxiv.org/pdf/2003.00602.pdf
 
-### Anomaly Detection
-An On-Device Federated Learning Approach for Cooperative Anomaly Detection
-https://arxiv.org/pdf/2002.12301.pdf
 
 ### Financial Industry
 FedCoin: A Peer-to-Peer Payment System for Federated Learning
