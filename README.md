@@ -132,6 +132,8 @@ Limited Labels
 Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
 https://arxiv.org/pdf/2006.12097.pdf
 
+(*) FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning. CMU ECE. 2020-04-07
+https://arxiv.org/pdf/2004.03657.pdf
 
 
 ## Neural Architecture Search
@@ -229,6 +231,9 @@ https://arxiv.org/pdf/2004.05843.pdf
 
 Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A Long-Term Perspective
 https://arxiv.org/pdf/2004.04314.pdf
+
+Resource Management for Blockchain-enabled Federated Learning: A Deep Reinforcement Learning Approach
+https://arxiv.org/pdf/2004.04104.pdf
 
 
 ## Computation Efficiency
@@ -379,9 +384,12 @@ Keywords: Split Learning + Sparsification
 Federated Transfer Learning for EEG Signal Classification
 https://arxiv.org/pdf/2004.12321.pdf
 
-### Vehicular Networks:
+### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
 https://arxiv.org/pdf/2006.01412.pdf
+
+Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach
+https://arxiv.org/pdf/2004.03877.pdf
 
 ### Speech Recognition:
 Training Keyword Spotting Models on Non-IID Data with Federated Learning
