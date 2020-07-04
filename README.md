@@ -732,6 +732,9 @@ https://arxiv.org/pdf/2002.01647.pdf
 (*) TiFL: A Tier-based Federated Learning System. HPDC 2020 (High-Performance Parallel and Distributed Computing).
 https://arxiv.org/pdf/2001.09249.pdf
 
+FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC. ICDCS 2020 (2020 International Conference on Distributed Computing Systems)
+https://arxiv.org/pdf/2002.09699.pdf
+
 ## Survey
 
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
