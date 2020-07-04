@@ -172,8 +172,6 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. 2020
 https://arxiv.org/pdf/2005.06105.pdf
 
-
-
 ## Continual Learning
 Federated Continual Learning with Adaptive Parameter Communication. 2020-03
 https://arxiv.org/pdf/2003.03196.pdf
