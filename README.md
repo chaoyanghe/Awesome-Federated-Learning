@@ -152,8 +152,17 @@ https://arxiv.org/pdf/2003.08673.pdf
 
 
 ## Neural Architecture Search
-Differentially-private Federated Neural Architecture Search. 2020
+FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18
+https://arxiv.org/abs/2004.08546
+
+Real-time Federated Evolutionary Neural Architecture Search. 2020-03
+https://arxiv.org/pdf/2003.02793.pdf
+
+Differentially-private Federated Neural Architecture Search. 2020-06
 https://arxiv.org/pdf/2006.10559.pdf
+
+Federated Neural Architecture Search. 2020-06-14
+https://arxiv.org/abs/2002.06352
 
 ## Transfer Learning
 Decentralized Differentially Private Segmentation with PATE. 2020-04
@@ -162,6 +171,12 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 
 Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. 2020
 https://arxiv.org/pdf/2005.06105.pdf
+
+
+
+## Continual Learning
+Federated Continual Learning with Adaptive Parameter Communication. 2020-03
+https://arxiv.org/pdf/2003.03196.pdf
 
 ## Semi-Supervised Learning
 Semisupervised knowledge transfer for deep learning from private training data. ICLR 2017
@@ -201,6 +216,9 @@ https://arxiv.org/pdf/2004.02738.pdf
 
 Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
 https://arxiv.org/pdf/2003.09603.pdf
+
+Ternary Compression for Communication-Efficient Federated Learning
+https://arxiv.org/pdf/2003.03564.pdf
 
 ## Wireless Communication and Fog Computing and Internet Of Things
 Researcher: 
@@ -274,7 +292,8 @@ https://arxiv.org/pdf/2003.12705.pdf
 Federated Learning for Task and Resource Allocation in Wireless High Altitude Balloon Networks. 2020-03
 https://arxiv.org/pdf/2003.09375.pdf
 
-
+Gradient Estimation for Federated Learning over Massive MIMO Communication Systems
+https://arxiv.org/pdf/2003.08059.pdf
 
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
@@ -342,6 +361,9 @@ https://arxiv.org/pdf/2004.04986.pdf
 An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies
 https://arxiv.org/pdf/2004.04676.pdf
 
+Privacy-preserving Weighted Federated Learning within Oracle-Aided MPC Framework
+https://arxiv.org/pdf/2003.07630.pdf
+
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
 https://arxiv.org/pdf/2006.08848.pdf
@@ -398,6 +420,10 @@ https://arxiv.org/pdf/2003.10933.pdf
 
 FedSel: Federated SGD under Local Differential Privacy with Top-k Dimension Selection
 https://arxiv.org/pdf/2003.10637.pdf
+
+Decentralized Policy-Based Private Analytics
+https://arxiv.org/pdf/2003.06612.pdf
+
 
 ## Fairness
 
@@ -460,6 +486,15 @@ https://arxiv.org/pdf/2004.00491.pdf
 
 Privacy-preserving Traffic Flow Prediction: A Federated Learning Approach
 https://arxiv.org/pdf/2003.08725.pdf
+
+Communication-Efficient Massive UAV Online Path Control: Federated Learning Meets Mean-Field Game Theory. 2020-03
+https://arxiv.org/pdf/2003.04451.pdf
+
+FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing. 2020-03
+https://arxiv.org/pdf/2003.03697.pdf
+
+Practical Privacy Preserving POI Recommendation
+https://arxiv.org/pdf/2003.02834.pdf
 
 ### Speech Recognition:
 Training Keyword Spotting Models on Non-IID Data with Federated Learning
