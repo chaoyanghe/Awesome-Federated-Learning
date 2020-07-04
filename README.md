@@ -10,7 +10,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  - [Communication Compression](#Communication-Compression)
- - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing)
+ - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
  - [Computation Efficiency](#Computation-Efficiency)
  - [Adversarial Attacks](#Adversarial-Attacks)
  - [Privacy](#Privacy)
@@ -196,7 +196,7 @@ Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 Evaluating the Communication Efficiency in Federated Learning Algorithm
 https://arxiv.org/pdf/2004.02738.pdf
 
-## Wireless Communication and Fog Computing
+## Wireless Communication and Fog Computing and Internet Of Things
 Researcher: 
 H. Vincent Poor
 https://ee.princeton.edu/people/h-vincent-poor
@@ -261,6 +261,8 @@ https://arxiv.org/pdf/2004.00773.pdf
 
 Scheduling for Cellular Federated Edge Learning with Importance and Channel. 2020-04
 https://arxiv.org/pdf/2004.00490.pdf
+
+https://arxiv.org/pdf/2003.12705.pdf
 
 
 
