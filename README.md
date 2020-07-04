@@ -79,6 +79,9 @@ https://arxiv.org/pdf/2004.01442.pdf
 Federated Residual Learning. 2020-03
 https://arxiv.org/pdf/2003.12880.pdf
 
+Adaptive Federated Optimization. ICML 2020. 2020-02-29
+https://arxiv.org/pdf/2003.00295.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -218,6 +221,9 @@ https://arxiv.org/pdf/2003.09603.pdf
 Ternary Compression for Communication-Efficient Federated Learning
 https://arxiv.org/pdf/2003.03564.pdf
 
+Gradient Statistics Aware Power Control for Over-the-Air Federated Learning
+https://arxiv.org/pdf/2003.02089.pdf
+
 ## Wireless Communication and Fog Computing and Internet Of Things
 Researcher: 
 H. Vincent Poor
@@ -293,6 +299,21 @@ https://arxiv.org/pdf/2003.09375.pdf
 Gradient Estimation for Federated Learning over Massive MIMO Communication Systems
 https://arxiv.org/pdf/2003.08059.pdf
 
+Adaptive Federated Learning With Gradient Compression in Uplink NOMA
+https://arxiv.org/pdf/2003.01344.pdf
+
+Performance Analysis and Optimization in Privacy-Preserving Federated Learning
+https://arxiv.org/pdf/2003.00229.pdf
+
+Energy-Efficient Federated Edge Learning with Joint Communication and Computation Design
+https://arxiv.org/pdf/2003.00199.pdf
+
+Federated Over-the-Air Subspace Learning and Tracking from Incomplete Data
+https://arxiv.org/pdf/2002.12873.pdf
+
+Decentralized Federated Learning via SGD over Wireless D2D Networks
+https://arxiv.org/pdf/2002.12507.pdf
+
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
@@ -361,6 +382,9 @@ https://arxiv.org/pdf/2004.04676.pdf
 
 Privacy-preserving Weighted Federated Learning within Oracle-Aided MPC Framework
 https://arxiv.org/pdf/2003.07630.pdf
+
+BASGD: Buffered Asynchronous SGD for Byzantine Learning
+https://arxiv.org/pdf/2003.00937.pdf
 
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
@@ -515,11 +539,24 @@ https://arxiv.org/pdf/2005.06670.pdf
 FedRec: Privacy-Preserving News Recommendation with Federated Learning. MSRA. 2020-03
 https://arxiv.org/pdf/2003.09592.pdf
 
+Federating Recommendations Using Differentially Private Prototypes
+https://arxiv.org/pdf/2003.00602.pdf
+
+### Anomaly Detection
+An On-Device Federated Learning Approach for Cooperative Anomaly Detection
+https://arxiv.org/pdf/2002.12301.pdf
+
+### Financial Industry
+FedCoin: A Peer-to-Peer Payment System for Federated Learning
+https://arxiv.org/pdf/2002.11711.pdf
 
 ## Benchmark and Dataset
 
 The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems
 https://arxiv.org/pdf/2006.07856.pdf
+
+Evaluation Framework For Large-scale Federated Learning
+https://arxiv.org/pdf/2003.01575.pdf
 
 ## FL System
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
@@ -568,3 +605,9 @@ https://arxiv.org/pdf/2004.11794.pdf
 
 Survey of Personalization Techniques for Federated Learning. 2020-03-19
 https://arxiv.org/pdf/2003.08673.pdf
+
+Threats to Federated Learning: A Survey
+https://arxiv.org/pdf/2003.02133.pdf
+
+Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective
+https://arxiv.org/pdf/2002.11545.pdf
