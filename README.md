@@ -630,6 +630,9 @@ https://arxiv.org/pdf/2002.09096.pdf
 Federated machine learning with Anonymous Random Hybridization (FeARH) on medical records
 https://arxiv.org/pdf/2001.09751.pdf
 
+Stratified cross-validation for unbiased and privacy-preserving federated learning
+https://arxiv.org/pdf/2001.08090.pdf
+
 ### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
 https://arxiv.org/pdf/2006.01412.pdf
@@ -678,6 +681,10 @@ https://arxiv.org/pdf/2003.09592.pdf
 
 Federating Recommendations Using Differentially Private Prototypes
 https://arxiv.org/pdf/2003.00602.pdf
+
+## Aeronautics
+Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics
+https://arxiv.org/pdf/2001.07504.pdf
 
 
 ### Financial Industry
