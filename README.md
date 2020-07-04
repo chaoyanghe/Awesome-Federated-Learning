@@ -7,6 +7,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 ## Research Areas, Paper Category
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
+ - [Vertical Federated Learning](#Vertical-Federated-Learning)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  - [Communication Compression](#Communication-Compression)
@@ -201,6 +202,20 @@ Salvaging Federated Learning by Local Adaptation
 https://arxiv.org/pdf/2002.04758.pdf
 Highlight: an experimental paper that evaluate FL can help to improve the local accuracy
 
+FOCUS: Dealing with Label Quality Disparity in Federated Learning. 2020-01
+https://arxiv.org/pdf/2001.11359.pdf
+
+Overcoming Noisy and Irrelevant Data in Federated Learning. ICPR 2020.
+https://arxiv.org/pdf/2001.08300.pdf
+
+## Vertical Federated Learning
+Multi-Participant Multi-Class Vertical Federated Learning
+https://arxiv.org/pdf/2001.11154.pdf
+
+Asymmetrical Vertical Federated Learning
+https://arxiv.org/pdf/2004.07427.pdf
+Researcher: Tencent Cloud, Libin Wang
+
 ## Neural Architecture Search
 FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18
 https://arxiv.org/abs/2004.08546
@@ -221,6 +236,12 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 
 Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. 2020
 https://arxiv.org/pdf/2005.06105.pdf
+
+(FL startup: Tongdun, HangZhou, China) Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework. 2020-02
+https://arxiv.org/pdf/2002.01647.pdf
+
+Cooperative Learning via Federated Distillation over Fading Channels
+https://arxiv.org/pdf/2002.01337.pdf
 
 ## Continual Learning
 Federated Continual Learning with Adaptive Parameter Communication. 2020-03
@@ -273,6 +294,12 @@ https://arxiv.org/pdf/2003.02089.pdf
 
 Communication-Efficient Decentralized Learning with Sparsification and Adaptive Peer Selection
 https://arxiv.org/pdf/2002.09692.pdf
+
+(*) RPN: A Residual Pooling Network for Efficient Federated Learning. ECAI 2020.
+https://arxiv.org/pdf/2001.08600.pdf
+
+Intermittent Pulling with Local Compensation for Communication-Efficient Federated Learning
+https://arxiv.org/pdf/2001.08277.pdf
 
 ## Straggler Problem
 
@@ -381,11 +408,24 @@ https://arxiv.org/pdf/2002.08196.pdf
 Wireless Federated Learning with Local Differential Privacy
 https://arxiv.org/pdf/2002.05151.pdf
 
+Cooperative Learning via Federated Distillation over Fading Channels
+https://arxiv.org/pdf/2002.01337.pdf
+
+Federated Learning under Channel Uncertainty: Joint Client Scheduling and Resource Allocation. 2020-02
+https://arxiv.org/pdf/2002.01337.pdf
+
+Learning from Peers at the Wireless Edge
+https://arxiv.org/pdf/2001.11567.pdf
+
+Convergence of Update Aware Device Scheduling for Federated Learning at the Wireless Edge
+https://arxiv.org/pdf/2001.10402.pdf
+
+Communication Efficient Federated Learning over Multiple Access Channels
+https://arxiv.org/pdf/2001.08737.pdf
 
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
-
 
 SplitFed: When Federated Learning Meets Split Learning
 https://arxiv.org/pdf/2004.12088.pdf
@@ -456,6 +496,9 @@ https://arxiv.org/pdf/2003.00937.pdf
 
 Stochastic-Sign SGD for Federated Learning with Theoretical Guarantees
 https://arxiv.org/pdf/2002.10940.pdf
+
+Learning to Detect Malicious Clients for Robust Federated Learning. 2020-02-01
+https://arxiv.org/pdf/2002.00211.pdf
 
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
@@ -584,6 +627,9 @@ https://arxiv.org/pdf/2003.08119.pdf
 Anonymizing Data for Privacy-Preserving Federated Learning. ECAI 2020.
 https://arxiv.org/pdf/2002.09096.pdf
 
+Federated machine learning with Anonymous Random Hybridization (FeARH) on medical records
+https://arxiv.org/pdf/2001.09751.pdf
+
 ### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
 https://arxiv.org/pdf/2006.01412.pdf
@@ -670,8 +716,14 @@ https://arxiv.org/pdf/2006.04150.pdf
 [startup] Industrial Federated Learning -- Requirements and System Design
 https://arxiv.org/pdf/2005.06850.pdf
 
-[startup] Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy
+(startup) Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy
 https://arxiv.org/pdf/2007.00914.pdf
+
+(FL startup: Tongdun, HangZhou, China) Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework. 2020-02
+https://arxiv.org/pdf/2002.01647.pdf
+
+(*) TiFL: A Tier-based Federated Learning System. HPDC 2020 (High-Performance Parallel and Distributed Computing).
+https://arxiv.org/pdf/2001.09249.pdf
 
 ## Survey
 
