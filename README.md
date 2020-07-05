@@ -19,7 +19,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Incentive Mechanism](#Incentive-Mechanism)
  - [FL System](#FL-System)
  - [Models and Applications](#Models-and-Applications)
- - [Benchmark and Dataset](#Benchmark-and-Dataset)
+ - [Benchmark and Dataset](#Benchmark-and-Dataset): NLP, CV, Heathcare, Transportation, finance, etc.
  - [Survey](#Survey)
 
 ## Distributed optimization
