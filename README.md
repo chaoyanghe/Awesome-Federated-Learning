@@ -4,6 +4,8 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 
 <strong>Last Update: July 3rd, 2020</strong>.	
 
+FL = Distributed Optimization/Computing + Model (CNN, LSTM, GAN, VAE, Graph) + Learning Paradigm (MTL/Meta-Learning/Transfer Learning/Semi-Supervised Learning) + Application (NLP/CV/DM) 
+
 ## Research Areas, Paper Category
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
