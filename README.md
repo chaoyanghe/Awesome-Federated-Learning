@@ -1405,12 +1405,12 @@ https://arxiv.org/pdf/1906.00638.pdf
 Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System
 https://arxiv.org/pdf/1901.09888.pdf
 
-## Aeronautics
+### Aeronautics
 Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics
 https://arxiv.org/pdf/2001.07504.pdf
 
 
-## Finance
+### Finance
 FedCoin: A Peer-to-Peer Payment System for Federated Learning
 https://arxiv.org/pdf/2002.11711.pdf
 
@@ -1418,26 +1418,26 @@ Towards Federated Graph Learning for Collaborative Financial Crimes Detection
 https://arxiv.org/pdf/1909.12946.pdf
 
 
-## crowdsourcing
+### crowdsourcing
 A Crowdsourcing Framework for On-Device Federated Learning
 https://arxiv.org/pdf/1911.01046.pdf
 
-# Robotics
+### Robotics
 Federated Imitation Learning: A Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data
 https://arxiv.org/pdf/1909.00895.pdf
 
 Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems
 https://arxiv.org/pdf/1901.06455.pdf
 
-# FL for system
+### FL for system
 A Federated Learning Approach for Mobile Packet Classification
 https://arxiv.org/pdf/1907.13113.pdf
 
-# Blockchain
+### Blockchain
 Blockchained On-Device Federated Learning
 https://arxiv.org/pdf/1808.03949.pdf
 
-# Other
+### Other
 Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing
 https://arxiv.org/pdf/1907.10218.pdf
 
