@@ -10,7 +10,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Vertical Federated Learning](#Vertical-Federated-Learning)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
- - [Communication Compression](#Communication-Compression)
+ - [Communication-Efficiency](#Communication-Efficiency)
  - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
  - [Computation Efficiency](#Computation-Efficiency)
  - [Security](#Security)
@@ -138,6 +138,15 @@ https://arxiv.org/pdf/1910.04956.pdf
 Accelerating Federated Learning via Momentum Gradient Descent
 https://arxiv.org/pdf/1910.03197.pdf
 
+Communication-Efficient Distributed Optimization in Networks with Gradient Tracking and Variance Reduction
+https://arxiv.org/pdf/1909.05844.pdf
+
+Gradient Descent with Compressed Iterates
+https://arxiv.org/pdf/1909.04716.pdf
+
+First Analysis of Local GD on Heterogeneous Data
+https://arxiv.org/pdf/1909.04715.pdf
+
 ## Non-IID and Model Personalization
 
 FedCD: Improving Performance in non-IID Federated Learning. 2020
@@ -261,6 +270,15 @@ https://arxiv.org/pdf/1910.01991.pdf
 Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8889996
 
+Improving Federated Learning Personalization via Model Agnostic Meta Learning
+https://arxiv.org/pdf/1909.12488.pdf
+
+Measure Contribution of Participants in Federated Learning
+https://arxiv.org/pdf/1909.08525.pdf
+
+(*) Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification
+https://arxiv.org/pdf/1909.06335.pdf
+
 ## Vertical Federated Learning
 Multi-Participant Multi-Class Vertical Federated Learning
 https://arxiv.org/pdf/2001.11154.pdf
@@ -277,10 +295,6 @@ https://arxiv.org/pdf/1912.00513.pdf
 
 Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator
 https://arxiv.org/pdf/1911.09824.pdf
-
-
-
-
 
 ## Neural Architecture Search
 FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18
@@ -387,6 +401,15 @@ https://arxiv.org/pdf/1910.10929.pdf
 
 High-Dimensional Stochastic Gradient Quantization for Communication-Efficient Edge Learning
 https://arxiv.org/pdf/1910.03865.pdf
+
+SAFA: a Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead
+https://arxiv.org/pdf/1910.01355.pdf
+
+Detailed comparison of communication efficiency of split learning and federated learning
+https://arxiv.org/pdf/1909.09145.pdf
+
+Decentralized Federated Learning: A Segmented Gossip Approach
+https://arxiv.org/pdf/1908.07782.pdf
 
 ## Straggler Problem
 
@@ -556,6 +579,27 @@ https://arxiv.org/pdf/1910.09172.pdf
 Reliable Federated Learning for Mobile Networks
 https://arxiv.org/pdf/1910.06837.pdf
 
+FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization
+https://arxiv.org/pdf/1909.13014.pdf
+
+Active Federated Learning
+https://arxiv.org/pdf/1909.12641.pdf
+
+Cell-Free Massive MIMO for Wireless Federated Learning
+https://arxiv.org/pdf/1909.12567.pdf
+
+A Joint Learning and Communications Framework for Federated Learning over Wireless Networks
+https://arxiv.org/pdf/1909.07972.pdf
+
+On Safeguarding Privacy and Security in the Framework of Federated Learning
+https://arxiv.org/pdf/1909.06512
+
+On Safeguarding Privacy and Security in the Framework of Federated Learning
+https://arxiv.org/pdf/1909.06512.pdf
+
+Hierarchical Federated Learning Across Heterogeneous Cellular Networks
+https://arxiv.org/pdf/1909.02362.pdf
+
 ## Computation Efficiency
 NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices
 https://arxiv.org/pdf/2006.05403.pdf
@@ -583,6 +627,10 @@ https://arxiv.org/pdf/1911.02134.pdf
 
 Federated Neuromorphic Learning of Spiking Neural Networks for Low-Power Edge Intelligence
 https://arxiv.org/pdf/1910.09594.pdf
+
+Model Pruning Enables Efficient Federated Learning on Edge Devices
+https://arxiv.org/pdf/1909.12326.pdf
+
 
 ## Security
 Legal Risks of Adversarial Machine Learning Research
@@ -683,6 +731,12 @@ https://arxiv.org/pdf/1910.09933.pdf
 
 Eavesdrop the Composition Proportion of Training Labels in Federated Learning
 https://arxiv.org/pdf/1910.06044.pdf
+
+Byzantine-Robust Federated Machine Learning through Adaptive Model Averaging
+https://arxiv.org/pdf/1909.05125.pdf
+
+An End-to-End Encrypted Neural Network for Gradient Updates Transmission in Federated Learning
+https://arxiv.org/pdf/1908.08340.pdf
 
 ## Privacy
 GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators
@@ -842,6 +896,9 @@ https://www.aclweb.org/anthology/K19-1012.pdf
 Federated pretraining and fine tuning of BERT using clinical notes from multiple silos
 https://arxiv.org/pdf/2002.08562.pdf
 
+Federated User Representation Learning
+https://arxiv.org/pdf/1909.12535.pdf
+
 ### Computer Vision
 Federated Face Anti-spoofing
 https://arxiv.org/pdf/2005.14638.pdf
@@ -911,6 +968,12 @@ https://arxiv.org/pdf/1910.02115.pdf
 Confederated Machine Learning on Horizontally and Vertically Separated Medical Data for Large-Scale Health System Intelligence
 https://arxiv.org/pdf/1910.02109.pdf
 
+Privacy-preserving Federated Brain Tumour Segmentation
+https://arxiv.org/pdf/1910.00962.pdf
+
+HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroencephalography
+https://arxiv.org/pdf/1909.05784.pdf
+
 
 ### Transportation (Internet of Vehicles):
 Federated Learning for Vehicular Networks
@@ -942,6 +1005,9 @@ https://arxiv.org/pdf/2001.01911.pdf
 
 Federated Transfer Reinforcement Learning for Autonomous Driving
 https://arxiv.org/pdf/1910.06001.pdf
+
+Energy Demand Prediction with Federated Learning for Electric Vehicle Networks
+https://arxiv.org/pdf/1909.00907.pdf
 
 ### Speech Recognition:
 Training Keyword Spotting Models on Non-IID Data with Federated Learning
@@ -982,6 +1048,10 @@ https://arxiv.org/pdf/2001.07504.pdf
 FedCoin: A Peer-to-Peer Payment System for Federated Learning
 https://arxiv.org/pdf/2002.11711.pdf
 
+Towards Federated Graph Learning for Collaborative Financial Crimes Detection
+https://arxiv.org/pdf/1909.12946.pdf
+
+
 ## Ranking Suggestion
 Federated Learning for Ranking Browser History Suggestions
 https://arxiv.org/pdf/1911.11807.pdf
@@ -989,6 +1059,10 @@ https://arxiv.org/pdf/1911.11807.pdf
 ## crowdsourcing
 A Crowdsourcing Framework for On-Device Federated Learning
 https://arxiv.org/pdf/1911.01046.pdf
+
+# Robotics
+Federated Imitation Learning: A Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data
+https://arxiv.org/pdf/1909.00895.pdf
 
 
 ## Benchmark and Dataset
@@ -1056,6 +1130,9 @@ https://arxiv.org/pdf/1911.04559.pdf
 Substra: a framework for privacy-preserving, traceable and collaborative Machine Learning
 https://arxiv.org/pdf/1910.11567.pdf
 
+BAFFLE : Blockchain Based Aggregator Free Federated Learning
+https://arxiv.org/pdf/1909.07452.pdf
+
 ## Survey
 
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
@@ -1104,3 +1181,9 @@ https://arxiv.org/pdf/1911.06270.pdf
 
 Federated Learning for Coalition Operations
 https://arxiv.org/pdf/1910.06799.pdf
+
+Federated Learning in Mobile Edge Networks: A Comprehensive Survey
+https://arxiv.org/pdf/1909.11875.pdf
+
+Federated Learning: Challenges, Methods, and Future Directions
+https://arxiv.org/pdf/1908.07873.pdf
