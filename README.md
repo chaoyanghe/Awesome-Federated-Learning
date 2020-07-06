@@ -11,6 +11,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Decentralized FL](#Decentralized-FL)
  - [Hierarchical FL](#Hierarchical-FL)
  - [Neural Architecture Search](#Neural-Architecture-Search)
+ - [Transfer Learning](#Transfer-Learning)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  - [Communication-Efficiency](#Communication-Efficiency)
  - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
