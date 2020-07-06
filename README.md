@@ -8,6 +8,8 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Vertical Federated Learning](#Vertical-Federated-Learning)
+ - [Decentralized FL](#Decentralized-FL)
+ - [Hierarchical FL](#Hierarchical-FL)
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  - [Communication-Efficiency](#Communication-Efficiency)
