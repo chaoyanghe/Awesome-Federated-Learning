@@ -15,7 +15,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Transfer Learning](#Transfer-Learning)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  
-#### Trustworthy AI: security, privacy, fairness, incentive mechanism, etc.
+#### Trustworthiness: security, privacy, fairness, incentive mechanism, etc.
  - [Security](#Security)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
