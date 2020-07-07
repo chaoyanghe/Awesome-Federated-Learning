@@ -5,7 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 5, 2020</strong>.	
 
 ## Research Areas
-Statistical Heterogeneity and Limitation
+##### Statistical Challenges: distribution heterogeneity and label deficiency
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Vertical Federated Learning](#Vertical-Federated-Learning)
@@ -15,24 +15,28 @@ Statistical Heterogeneity and Limitation
  - [Transfer Learning](#Transfer-Learning)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  
- System Constraints and Heterogeneity
- - [Communication-Efficiency](#Communication-Efficiency)
- - [Wireless Communication, Networking, and edge-cloud computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
- - [Computation Efficiency](#Computation-Efficiency)
- - [FL System Design](#FL-System)
-
- Trustworthy
+##### Trustworthy AI: security, privacy, fairness, incentive mechanism, etc.
  - [Security](#Security)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [Incentive Mechanism](#Incentive-Mechanism)
+ 
+##### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system
+ - [Communication-Efficiency](#Communication-Efficiency)
+ - [Wireless Communication, Networking, and edge-cloud computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
+ - [Computation Efficiency](#Computation-Efficiency)
+ - [FL System Design](#FL-System-Design)
 
-Models and Applications
+##### Models and Applications
  - [Models and Applications](#Models-and-Applications): NLP, CV, Heathcare, Transportation, finance, etc.
  
 Dataset, Benchmark, and Survey
  - [Benchmark and Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
+
+-------------------
+
+# Statistical Challenges: distribution heterogeneity and label deficiency
 
 ## Distributed optimization
 Federated Optimization:Distributed Optimization Beyond the Datacenter. NIPS 2016 workshop.
@@ -437,11 +441,12 @@ https://arxiv.org/abs/2004.08546
 Real-time Federated Evolutionary Neural Architecture Search. 2020-03
 https://arxiv.org/pdf/2003.02793.pdf
 
+Federated Neural Architecture Search. 2020-06-14
+https://arxiv.org/abs/2002.06352
+
 Differentially-private Federated Neural Architecture Search. 2020-06
 https://arxiv.org/pdf/2006.10559.pdf
 
-Federated Neural Architecture Search. 2020-06-14
-https://arxiv.org/abs/2002.06352
 
 ## Transfer Learning
 Decentralized Differentially Private Segmentation with PATE. 2020-04
@@ -483,14 +488,15 @@ Federated Continual Learning with Adaptive Parameter Communication. 2020-03
 https://arxiv.org/pdf/2003.03196.pdf
 
 ## Semi-Supervised Learning
+Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
+https://arxiv.org/pdf/2006.12097.pdf
+
 Semisupervised knowledge transfer for deep learning from private training data. ICLR 2017
 https://arxiv.org/pdf/1610.05755.pdf
 
 Scalable private learning with PATE. ICLR 2018. 
 https://arxiv.org/abs/1802.08908
 
-Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
-https://arxiv.org/pdf/2006.12097.pdf
 
 ## Communication Efficiency
 Federated Learning: Strategies for Improving Communication Efficiency
@@ -1479,7 +1485,7 @@ https://arxiv.org/pdf/1812.01097.pdf
 Functional Federated Learning in Erlang (ffl-erl)
 https://arxiv.org/pdf/1808.08143.pdf
 
-## FL System
+## FL System Design
 Towards Federated Learning at Scale: System Design
 https://arxiv.org/pdf/1902.01046.pdf
 
