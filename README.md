@@ -2,7 +2,7 @@
 
 A curated list of federated learning publications, reorgnized from Arxiv.
 
-<strong>Last Update: July 5, 2020</strong>.	
+<strong>Last Update: July 7, 2020</strong>.	
 
 ## Research Areas
 #### Statistical Challenges: distribution heterogeneity and label deficiency
