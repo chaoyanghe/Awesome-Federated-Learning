@@ -5,35 +5,35 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 7, 2020</strong>.	
 
 ## Research Areas
-#### Statistical Challenges: distribution heterogeneity and label deficiency
- - [Distributed Optimization](#Distributed-optimization)
- - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
- - [Vertical Federated Learning](#Vertical-Federated-Learning)
- - [Decentralized FL](#Decentralized-FL)
- - [Hierarchical FL](#Hierarchical-FL)
- - [Neural Architecture Search](#Neural-Architecture-Search)
- - [Transfer Learning](#Transfer-Learning)
- - [Semi-Supervised Learning](#Semi-Supervised-Learning)
+#### Statistical Challenges: distribution heterogeneity and label deficiency (141)
+ - [Distributed Optimization](#Distributed-optimization (56))
+ - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (49))
+ - [Vertical Federated Learning](#Vertical-Federated-Learning (8))
+ - [Decentralized FL](#Decentralized-FL (3))
+ - [Hierarchical FL](#Hierarchical-FL (7))
+ - [Neural Architecture Search](#Neural-Architecture-Search (4))
+ - [Transfer Learning](#Transfer-Learning (11))
+ - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
  
-#### Trustworthiness: security, privacy, fairness, incentive mechanism, etc.
- - [Security](#Security)
- - [Privacy](#Privacy)
- - [Fairness](#Fairness)
+#### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (87)
+ - [Security](#Security (43))
+ - [Privacy](#Privacy (35))
+ - [Fairness](#Fairness (4))
  - [Interpretability](#Interpretability)
- - [Incentive Mechanism](#Incentive-Mechanism)
- 
-#### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system
- - [Communication-Efficiency](#Communication-Efficiency)
- - [Wireless Communication and Cloud Computing](#Wireless-Communication-and-Cloud-Computing)
- - [Computation Efficiency](#Computation-Efficiency)
- - [FL System Design](#FL-System-Design)
+ - [Incentive Mechanism](#Incentive-Mechanism (5))
 
-#### Models and Applications
- - [Models](#Models)
- - [Natural language Processing](#Natural-language-Processing)
- - [Computer Vision](#Computer-Vision)
- - [Health Care](#Health-Care)
- - [Transportation](#Transportation)
+#### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system (134)
+ - [Communication-Efficiency](#Communication-Efficiency (27))
+ - [Wireless Communication and Cloud Computing](#Wireless-Communication-and-Cloud-Computing (71))
+ - [Computation Efficiency](#Computation-Efficiency (17))
+ - [FL System Design](#FL-System-Design (19))
+
+#### Models and Applications (101)
+ - [Models](#Models (22))
+ - [Natural language Processing](#Natural-language-Processing (15))
+ - [Computer Vision](#Computer-Vision (3))
+ - [Health Care](#Health-Care (27))
+ - [Transportation](#Transportation (13))
  - [Recommendation System](#Recommendation-System)
  - [Speech](#Speech)
  - [Finance](#Finance)
@@ -43,13 +43,13 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Blockchain](#Blockchain)
  - [Other](#Other)
  
-#### Benchmark, Dataset and Survey
- - [Benchmark and Dataset](#Benchmark-and-Dataset)
- - [Survey](#Survey)
+#### Benchmark, Dataset and Survey (27)
+ - [Benchmark and Dataset](#Benchmark-and-Dataset (20))
+ - [Survey](#Survey (7))
 
 -------------------
 
-# Statistical Challenges: distribution heterogeneity and label deficiency
+# Statistical Challenges: distribution heterogeneity and label deficiency 
 
 ## Distributed optimization
 Federated Optimization:Distributed Optimization Beyond the Datacenter. NIPS 2016 workshop.
