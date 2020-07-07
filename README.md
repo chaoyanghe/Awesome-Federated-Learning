@@ -17,7 +17,7 @@ Statistical Heterogeneity and Limitation
  
  System Constraints and Heterogeneity
  - [Communication-Efficiency](#Communication-Efficiency)
- - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
+ - [Wireless Communication, Networking, and edge-cloud computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
  - [Computation Efficiency](#Computation-Efficiency)
  - [FL System Design](#FL-System)
 
