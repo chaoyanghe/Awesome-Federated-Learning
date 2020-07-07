@@ -5,7 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 5, 2020</strong>.	
 
 ## Research Areas
-##### Statistical Challenges: distribution heterogeneity and label deficiency
+#### Statistical Challenges: distribution heterogeneity and label deficiency
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Vertical Federated Learning](#Vertical-Federated-Learning)
@@ -15,20 +15,20 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Transfer Learning](#Transfer-Learning)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  
-##### Trustworthy AI: security, privacy, fairness, incentive mechanism, etc.
+#### Trustworthy AI: security, privacy, fairness, incentive mechanism, etc.
  - [Security](#Security)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [Interpretability](#Interpretability)
  - [Incentive Mechanism](#Incentive-Mechanism)
  
-##### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system
+#### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system
  - [Communication-Efficiency](#Communication-Efficiency)
  - [Wireless Communication and Cloud Computing](#Wireless-Communication-and-Cloud-Computing)
  - [Computation Efficiency](#Computation-Efficiency)
  - [FL System Design](#FL-System-Design)
 
-##### Models and Applications
+#### Models and Applications
  - [Models](#Models)
  - [Natural language Processing](#Natural-language-Processing)
  - [Computer Vision](#Computer-Vision)
@@ -43,7 +43,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Blockchain](#Blockchain)
  - [Other](#Other)
  
-##### Benchmark, Dataset and Survey
+#### Benchmark, Dataset and Survey
  - [Benchmark and Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
 
