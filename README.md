@@ -4,7 +4,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 
 <strong>Last Update: July 5, 2020</strong>.	
 
-## Research Areas, Paper Category
+## Research Areas
 Statistical Heterogeneity and Limitation
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
