@@ -5,6 +5,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
 <strong>Last Update: July 5, 2020</strong>.	
 
 ## Research Areas, Paper Category
+Statistical Heterogeneity and Limitation
  - [Distributed Optimization](#Distributed-optimization)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization)
  - [Vertical Federated Learning](#Vertical-Federated-Learning)
@@ -13,15 +14,23 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Neural Architecture Search](#Neural-Architecture-Search)
  - [Transfer Learning](#Transfer-Learning)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
+ 
+ System Constraints and Heterogeneity
  - [Communication-Efficiency](#Communication-Efficiency)
  - [Wireless Communication and Fog Computing](#Wireless-Communication-and-Fog-Computing-and-Internet-Of-Things)
  - [Computation Efficiency](#Computation-Efficiency)
+ - [FL System Design](#FL-System)
+
+ Trustworthy
  - [Security](#Security)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [Incentive Mechanism](#Incentive-Mechanism)
- - [FL System](#FL-System)
+
+Models and Applications
  - [Models and Applications](#Models-and-Applications): NLP, CV, Heathcare, Transportation, finance, etc.
+ 
+Dataset, Benchmark, and Survey
  - [Benchmark and Dataset](#Benchmark-and-Dataset)
  - [Survey](#Survey)
 
