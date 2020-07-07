@@ -232,6 +232,9 @@ https://arxiv.org/pdf/1809.03832.pdf
 
 
 ## Non-IID and Model Personalization
+The Non-IID Data Quagmire of Decentralized Machine Learning. 2019-10
+https://arxiv.org/abs/1910.00189
+
 Federated Learning with Non-IID Data
 https://arxiv.org/pdf/1806.00582.pdf
 
