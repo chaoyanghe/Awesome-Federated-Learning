@@ -15,8 +15,8 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Transfer Learning](#Transfer-Learning)
  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
  
-#### Trustworthy AI: security, privacy, fairness, incentive mechanism, etc.
- - [Security](#Security)
+#### Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
+ - [Adversarial Attack](#Adversarial-Attack)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
  - [Interpretability](#Interpretability)
@@ -390,6 +390,15 @@ Federated Meta-Learning with Fast Convergence and Efficient Communication
 https://arxiv.org/pdf/1802.07876.pdf
 
 ## Vertical Federated Learning
+SecureBoost: A Lossless Federated Learning Framework
+https://arxiv.org/pdf/1901.08755.pdf
+
+Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator
+https://arxiv.org/pdf/1911.09824.pdf
+
+A Quasi-Newton Method Based Vertical Federated Learning Framework for Logistic Regression
+https://arxiv.org/pdf/1912.00513.pdf
+
 Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption
 https://arxiv.org/pdf/1711.10677.pdf
 
@@ -406,16 +415,16 @@ Researcher: Tencent Cloud, Libin Wang
 A Communication-Efficient Collaborative Learning Framework for Distributed Features
 https://arxiv.org/pdf/1912.11187.pdf
 
-A Quasi-Newton Method Based Vertical Federated Learning Framework for Logistic Regression
-https://arxiv.org/pdf/1912.00513.pdf
-
-Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator
-https://arxiv.org/pdf/1911.09824.pdf
-
-SecureBoost: A Lossless Federated Learning Framework
-https://arxiv.org/pdf/1901.08755.pdf
-
 ## Decentralized FL
+Central Server Free Federated Learning over Single-sided Trust Social Networks
+https://arxiv.org/abs/1910.04956
+
+Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent
+https://arxiv.org/abs/1705.09056
+
+Multi-consensus Decentralized Accelerated Gradient Descent
+https://arxiv.org/pdf/2005.00797.pdf
+
 Decentralized Bayesian Learning over Graphs. 2019-05
 https://arxiv.org/pdf/1905.10466.pdf
 
@@ -424,6 +433,8 @@ https://arxiv.org/pdf/1905.06731.pdf
 
 Biscotti: A Ledger for Private and Secure Peer-to-Peer Machine Learning
 https://arxiv.org/pdf/1811.09904.pdf#
+
+
 
 ## Hierarchical FL
 Client-Edge-Cloud Hierarchical Federated Learning
@@ -510,10 +521,10 @@ https://arxiv.org/pdf/1610.05755.pdf
 Scalable private learning with PATE. ICLR 2018. 
 https://arxiv.org/abs/1802.08908
 
-# Trustworthy AI: security, privacy, fairness, incentive mechanism, etc.
+# Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
 
-## Security
-Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
+## Adversarial Attack
+Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. 
 https://arxiv.org/pdf/1702.07464.pdf
 
 Legal Risks of Adversarial Machine Learning Research
@@ -646,11 +657,17 @@ How To Backdoor Federated Learning
 https://arxiv.org/pdf/1807.00459.pdf
 
 ## Privacy
-Practical Secure Aggregation for Federated Learning on User-Held Data
+Practical Secure Aggregation for Federated Learning on User-Held Data. NIPS 2016 workshop
 https://arxiv.org/pdf/1611.04482.pdf
+Highlight: cryptology
 
-Differentially Private Federated Learning: A Client Level Perspective
+Differentially Private Federated Learning: A Client Level Perspective. NIPS 2017 Workshop
 https://arxiv.org/pdf/1712.07557.pdf
+
+Deep Leakage from Gradients. NIPS 2019
+https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf
+
+
 
 Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning
 https://arxiv.org/pdf/1805.05838.pdf
@@ -726,8 +743,7 @@ https://arxiv.org/pdf/2002.09843.pdf
 Anonymizing Data for Privacy-Preserving Federated Learning
 https://arxiv.org/pdf/2002.09096.pdf
 
-Deep Leakage from Gradients. NIPS 2019
-https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf
+
 
 iDLG: Improved Deep Leakage from Gradients. 2020-01-08
 https://arxiv.org/pdf/2001.02610.pdf
@@ -791,23 +807,31 @@ https://arxiv.org/pdf/1905.07479.pdf
 ## Communication Efficiency
 Federated Learning: Strategies for Improving Communication Efficiency
 https://arxiv.org/pdf/1610.05492.pdf
+Highlights: optimization
+
+Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training. ICLR 2018. 2017-12-05
+https://arxiv.org/pdf/1712.01887.pdf
+Highlights: gradient compression
 
 NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
 https://arxiv.org/pdf/2006.14591.pdf
+Highlights: gradient compression
 
 Scheduling Policy and Power Allocation for Federated Learning in NOMA Based MEC
 https://arxiv.org/pdf/2006.13044.pdf
 
 Federated Mutual Learning
 https://arxiv.org/pdf/2006.16765.pdf
+Highlights: Duplicate to Deep Mutual Learning. CVPR 2018
 
 A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning
 https://arxiv.org/pdf/2006.11077.pdf
 Researcher: Peter Richtárik
 
-Federated Learning With Quantized Global Model Updates
+Federated Learning With Quantized Global Model Updates. 2020-06-18
 https://arxiv.org/pdf/2006.10672.pdf
 Researcher: Mohammad Mohammadi Amiri, Princeton, Information Theory and Machine Learning
+Highlights: model compression
 
 Federated Learning with Compression: Unified Analysis and Sharp Guarantees
 https://arxiv.org/pdf/2007.01154.pdf
@@ -871,8 +895,6 @@ https://arxiv.org/pdf/1812.07210.pdf
 Partitioned Variational Inference: A unified framework encompassing federated and continual learning
 https://arxiv.org/pdf/1811.11206.pdf
 
-Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training
-https://arxiv.org/pdf/1712.01887.pdf
 
 ## Straggler Problem
 
