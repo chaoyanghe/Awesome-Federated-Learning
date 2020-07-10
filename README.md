@@ -15,17 +15,16 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Transfer Learning](#Transfer-Learning (11))
  - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
  
-<<<<<<< HEAD
+
 #### Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
  - [Adversarial Attack](#Adversarial-Attack)
  - [Privacy](#Privacy)
  - [Fairness](#Fairness)
-=======
+
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (87)
  - [Security](#Security (43))
  - [Privacy](#Privacy (35))
  - [Fairness](#Fairness (4))
->>>>>>> dd8e47a38a23a5167e96117d56f3cfcae7f8744e
  - [Interpretability](#Interpretability)
  - [Incentive Mechanism](#Incentive-Mechanism (5))
 
@@ -424,12 +423,14 @@ https://arxiv.org/pdf/1803.04035.pdf
 Multi-Participant Multi-Class Vertical Federated Learning
 https://arxiv.org/pdf/2001.11154.pdf
 
+A Communication-Efficient Collaborative Learning Framework for Distributed Features
+https://arxiv.org/pdf/1912.11187.pdf
+
+
 Asymmetrical Vertical Federated Learning
 https://arxiv.org/pdf/2004.07427.pdf
 Researcher: Tencent Cloud, Libin Wang
 
-A Communication-Efficient Collaborative Learning Framework for Distributed Features
-https://arxiv.org/pdf/1912.11187.pdf
 
 ## Decentralized FL
 Central Server Free Federated Learning over Single-sided Trust Social Networks
@@ -489,6 +490,24 @@ https://arxiv.org/pdf/2006.10559.pdf
 
 
 ## Transfer Learning
+
+Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data
+https://arxiv.org/pdf/1811.11479.pdf
+
+Secure Federated Transfer Learning. IEEE Intelligent Systems 2018.
+https://arxiv.org/pdf/1812.03337.pdf
+
+
+FedMD: Heterogenous Federated Learning via Model Distillation
+https://arxiv.org/pdf/1910.03581.pdf
+
+Secure and Efficient Federated Transfer Learning
+https://arxiv.org/pdf/1910.13271.pdf
+
+Wireless Federated Distillation for Distributed Edge Learning with Heterogeneous Data
+https://arxiv.org/pdf/1907.02745.pdf
+
+
 Decentralized Differentially Private Segmentation with PATE. 2020-04
 https://arxiv.org/pdf/2004.06567.pdf \
 Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for deep learning from private training data"
@@ -502,26 +521,16 @@ https://arxiv.org/pdf/2002.01647.pdf
 Cooperative Learning via Federated Distillation over Fading Channels
 https://arxiv.org/pdf/2002.01337.pdf
 
+
 (*) Cronus: Robust and Heterogeneous Collaborative Learning with Black-Box Knowledge Transfer
 https://arxiv.org/pdf/1912.11279.pdf
 
-Secure and Efficient Federated Transfer Learning
-https://arxiv.org/pdf/1910.13271.pdf
 
-FedMD: Heterogenous Federated Learning via Model Distillation
-https://arxiv.org/pdf/1910.03581.pdf
+
+
 
 Federated Reinforcement Distillation with Proxy Experience Memory
 https://arxiv.org/pdf/1907.06536.pdf
-
-Wireless Federated Distillation for Distributed Edge Learning with Heterogeneous Data
-https://arxiv.org/pdf/1907.02745.pdf
-
-Secure Federated Transfer Learning. IEEE Intelligent Systems 2018.
-https://arxiv.org/pdf/1812.03337.pdf
-
-Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data
-https://arxiv.org/pdf/1811.11479.pdf
 
 ## Continual Learning
 Federated Continual Learning with Adaptive Parameter Communication. 2020-03
@@ -531,7 +540,7 @@ https://arxiv.org/pdf/2003.03196.pdf
 Federated Semi-Supervised Learning with Inter-Client Consistency. 2020
 https://arxiv.org/pdf/2006.12097.pdf
 
-Semisupervised knowledge transfer for deep learning from private training data. ICLR 2017
+Semi-supervised knowledge transfer for deep learning from private training data. ICLR 2017
 https://arxiv.org/pdf/1610.05755.pdf
 
 Scalable private learning with PATE. ICLR 2018. 
@@ -692,7 +701,6 @@ Practical Secure Aggregation for Federated Learning on User-Held Data. NIPS 2016
 https://arxiv.org/pdf/1611.04482.pdf
 Highlight: cryptology
 
-
 Differentially Private Federated Learning: A Client Level Perspective. NIPS 2017 Workshop
 https://arxiv.org/pdf/1712.07557.pdf
 
@@ -814,27 +822,6 @@ https://arxiv.org/pdf/2006.08848.pdf
 Citation: 0
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Fairness
 Fair Resource Allocation in Federated Learning. ICLR 2020.
 https://arxiv.org/pdf/1905.10497.pdf
@@ -876,19 +863,20 @@ Highlights: optimization
 Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training. ICLR 2018. 2017-12-05
 https://arxiv.org/pdf/1712.01887.pdf
 Highlights: gradient compression
+Citation: 298
 
-NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020
+NeurIPS 2020 submission: Artemis: tight convergence guarantees for bidirectional compression in Federated Learning. 2020-06-25
 https://arxiv.org/pdf/2006.14591.pdf
-Highlights: gradient compression
+Highlights: bidirectional gradient compression
 
-Scheduling Policy and Power Allocation for Federated Learning in NOMA Based MEC
+Scheduling Policy and Power Allocation for Federated Learning in NOMA Based MEC. 2020-06-21
 https://arxiv.org/pdf/2006.13044.pdf
 
-Federated Mutual Learning
+(x) Federated Mutual Learning. 2020-06-27
 https://arxiv.org/pdf/2006.16765.pdf
 Highlights: Duplicate to Deep Mutual Learning. CVPR 2018
 
-A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning
+A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning. 2020-06-19
 https://arxiv.org/pdf/2006.11077.pdf
 Researcher: Peter Richtárik
 
@@ -897,39 +885,39 @@ https://arxiv.org/pdf/2006.10672.pdf
 Researcher: Mohammad Mohammadi Amiri, Princeton, Information Theory and Machine Learning
 Highlights: model compression
 
-Federated Learning with Compression: Unified Analysis and Sharp Guarantees
+Federated Learning with Compression: Unified Analysis and Sharp Guarantees. 2020-07-02
 https://arxiv.org/pdf/2007.01154.pdf
 Highlight: non-IID, gradient compression + local SGD
 Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
-Evaluating the Communication Efficiency in Federated Learning Algorithm
+Evaluating the Communication Efficiency in Federated Learning Algorithm. 2020-04-06
 https://arxiv.org/pdf/2004.02738.pdf
 
-Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
+Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning. 2020-05-21
 https://arxiv.org/pdf/2003.09603.pdf
 
-Ternary Compression for Communication-Efficient Federated Learning
+Ternary Compression for Communication-Efficient Federated Learning. 2020-05-07
 https://arxiv.org/pdf/2003.03564.pdf
 
-Gradient Statistics Aware Power Control for Over-the-Air Federated Learning
+Gradient Statistics Aware Power Control for Over-the-Air Federated Learning. 2020-05-04
 https://arxiv.org/pdf/2003.02089.pdf
 
-Communication-Efficient Decentralized Learning with Sparsification and Adaptive Peer Selection
+Communication-Efficient Decentralized Learning with Sparsification and Adaptive Peer Selection. 2020-02-22
 https://arxiv.org/pdf/2002.09692.pdf
 
 (*) RPN: A Residual Pooling Network for Efficient Federated Learning. ECAI 2020.
 https://arxiv.org/pdf/2001.08600.pdf
 
-Intermittent Pulling with Local Compensation for Communication-Efficient Federated Learning
+Intermittent Pulling with Local Compensation for Communication-Efficient Federated Learning. 2020-01-22
 https://arxiv.org/pdf/2001.08277.pdf
 
-Hyper-Sphere Quantization: Communication-Efficient SGD for Federated Learning
+Hyper-Sphere Quantization: Communication-Efficient SGD for Federated Learning. 2019-11-12
 https://arxiv.org/pdf/1911.04655.pdf
 
 L-FGADMM: Layer-Wise Federated Group ADMM for Communication Efficient Decentralized Deep Learning
 https://arxiv.org/pdf/1911.03654.pdf
 
-Gradient Sparification for Asynchronous Distributed Training
+Gradient Sparification for Asynchronous Distributed Training. 2019-10-24
 https://arxiv.org/pdf/1910.10929.pdf
 
 High-Dimensional Stochastic Gradient Quantization for Communication-Efficient Edge Learning
@@ -1303,11 +1291,17 @@ https://arxiv.org/pdf/1808.08143.pdf
 Discrete-Time Cox Models
 https://arxiv.org/pdf/2006.08997.pdf
 
-(GAN) Federated Generative Adversarial Learning
-https://arxiv.org/pdf/2005.03793.pdf
 
 Generative Models for Effective ML on Private, Decentralized Datasets. Google. ICLR 2020
 https://arxiv.org/pdf/1911.06679.pdf
+Citation: 8
+
+MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets. 2018-11-09
+https://arxiv.org/pdf/1811.03850.pdf
+
+(GAN) Federated Generative Adversarial Learning. 2020-05-07
+https://arxiv.org/pdf/2005.03793.pdf
+Citation: 0
 
 (VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection
 https://arxiv.org/pdf/2002.12301.pdf
@@ -1357,8 +1351,7 @@ https://arxiv.org/pdf/1901.08277.pdf
 Differentially Private Data Generative Models
 https://arxiv.org/pdf/1812.02274.pdf
 
-MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets
-https://arxiv.org/pdf/1811.03850.pdf
+
 
 DÏoT: A Federated Self-learning Anomaly Detection System for IoT
 https://arxiv.org/pdf/1804.07474.pdf
