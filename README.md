@@ -14,15 +14,9 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Neural Architecture Search](#Neural-Architecture-Search (4))
  - [Transfer Learning](#Transfer-Learning (11))
  - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
- 
-
-#### Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
- - [Adversarial Attack](#Adversarial-Attack)
- - [Privacy](#Privacy)
- - [Fairness](#Fairness)
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (87)
- - [Security](#Security (43))
+ - [Adversarial Attack](#Adversarial-Attack)
  - [Privacy](#Privacy (35))
  - [Fairness](#Fairness (4))
  - [Interpretability](#Interpretability)
