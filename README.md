@@ -16,7 +16,7 @@ A curated list of federated learning publications, reorgnized from Arxiv.
  - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (87)
- - [Adversarial Attack](#Adversarial-Attack)
+ - [Adversarial-Attack-and-Defense](#Adversarial-Attack-and-Defense)
  - [Privacy](#Privacy (35))
  - [Fairness](#Fairness (4))
  - [Interpretability](#Interpretability)
