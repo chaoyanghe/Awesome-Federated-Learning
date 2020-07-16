@@ -1,6 +1,6 @@
-# Awesome-Federated-Learning
+# Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of federated learning publications, reorgnized from Arxiv.
+A curated list of federated learning publications, re-orgnized from Arxiv.
 
 <strong>Last Update: July 7, 2020</strong>.	
 
@@ -233,6 +233,42 @@ https://arxiv.org/pdf/1809.03832.pdf
 Communication-Efficient Robust Federated Learning Over Heterogeneous Datasets
 https://arxiv.org/pdf/2006.09992.pdf
 
+An Efficient Framework for Clustered Federated Learning
+https://arxiv.org/pdf/2006.04088.pdf
+
+Adaptive Federated Learning in Resource Constrained Edge Computing Systems
+https://arxiv.org/pdf/1804.05271.pdf
+Citation: 146
+
+Adaptive Federated Optimization
+http://arxiv.org/pdf/2003.00295.pdf
+
+Local SGD converges fast and communicates little
+https://arxiv.org/pdf/1805.09767.pdf
+
+Don’t Use Large Mini-Batches, Use Local SGD
+https://arxiv.org/pdf/1808.07217.pdf
+
+Overlap Local-SGD: An Algorithmic Approach to Hide Communication Delays in Distributed SGD
+https://arxiv.org/pdf/2002.09539.pdf
+
+Local SGD With a Communication Overhead Depending Only on the Number of Workers
+https://arxiv.org/pdf/2006.02582.pdf
+
+Federated Accelerated Stochastic Gradient Descent 
+https://arxiv.org/pdf/2006.08950.pdf
+
+Tighter Theory for Local SGD on Identical and Heterogeneous Data
+https://arxiv.org/pdf/1909.04746.pdf
+
+STL-SGD: Speeding Up Local SGD with Stagewise Communication Period
+https://arxiv.org/pdf/2006.06377.pdf
+
+Cooperative SGD: A unified Framework for the Design and Analysis of Communication-Efficient SGD Algorithms
+https://arxiv.org/pdf/1808.07576.pdf
+
+Don't Use Large Mini-Batches, Use Local SGD
+https://arxiv.org/pdf/1808.07217.pdf
 
 ## Non-IID and Model Personalization
 The Non-IID Data Quagmire of Decentralized Machine Learning. 2019-10
@@ -398,6 +434,13 @@ https://arxiv.org/pdf/1802.07876.pdf
 Robust Federated Learning Through Representation Matching and Adaptive Hyper-parameters
 https://arxiv.org/pdf/1912.13075.pdf
 
+Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity
+https://arxiv.org/pdf/2005.12326.pdf
+
+Client Adaptation improves Federated Learning with Simulated Non-IID Clients
+https://arxiv.org/pdf/2007.04806.pdf
+
+
 ## Vertical Federated Learning
 SecureBoost: A Lossless Federated Learning Framework
 https://arxiv.org/pdf/1901.08755.pdf
@@ -419,7 +462,6 @@ https://arxiv.org/pdf/2001.11154.pdf
 
 A Communication-Efficient Collaborative Learning Framework for Distributed Features
 https://arxiv.org/pdf/1912.11187.pdf
-
 
 Asymmetrical Vertical Federated Learning
 https://arxiv.org/pdf/2004.07427.pdf
@@ -445,6 +487,8 @@ https://arxiv.org/pdf/1905.06731.pdf
 Biscotti: A Ledger for Private and Secure Peer-to-Peer Machine Learning
 https://arxiv.org/pdf/1811.09904.pdf#
 
+Matcha: Speeding Up Decentralized SGD via Matching Decomposition Sampling
+https://arxiv.org/pdf/1905.09435.pdf
 
 
 ## Hierarchical FL
@@ -468,6 +512,9 @@ https://arxiv.org/pdf/2004.11791.pdf
 
 Federated Hierarchical Hybrid Networks for Clickbait Detection
 https://arxiv.org/pdf/1906.00638.pdf
+
+MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling
+https://arxiv.org/pdf/1905.09435.pdf
 
 ## Neural Architecture Search
 FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18
@@ -815,6 +862,9 @@ GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Gener
 https://arxiv.org/pdf/2006.08848.pdf
 Citation: 0
 
+Federated Learning with Differential Privacy:Algorithms and Performance Analysis
+https://arxiv.org/pdf/1911.00222.pdf
+Citation: 2
 
 ## Fairness
 Fair Resource Allocation in Federated Learning. ICLR 2020.
@@ -846,6 +896,9 @@ https://arxiv.org/pdf/1908.03092.pdf
 
 Incentive Design for Efficient Federated Learning in Mobile Networks: A Contract Theory Approach
 https://arxiv.org/pdf/1905.07479.pdf
+
+A Learning-based Incentive Mechanism forFederated Learning
+https://www.u-aizu.ac.jp/~pengli/files/fl_incentive_iot.pdf
 
 # System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system
 
@@ -941,6 +994,11 @@ https://arxiv.org/pdf/1812.07210.pdf
 Partitioned Variational Inference: A unified framework encompassing federated and continual learning
 https://arxiv.org/pdf/1811.11206.pdf
 
+FedOpt: Towards communication efficiency and privacy preservation in federated learning
+https://res.mdpi.com/d_attachment/applsci/applsci-10-02864/article_deploy/applsci-10-02864.pdf
+
+A performance evaluation of federated learning algorithms
+[Short link](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
 
 ## Straggler Problem
 
@@ -979,9 +1037,6 @@ https://arxiv.org/pdf/1911.02134.pdf
 (*) Secure Federated Submodel Learning
 https://arxiv.org/pdf/1911.02254.pdf
 
-Asynchronous Online Federated Learning for Edge Devices
-https://arxiv.org/pdf/1911.02134.pdf
-
 Federated Neuromorphic Learning of Spiking Neural Networks for Low-Power Edge Intelligence
 https://arxiv.org/pdf/1910.09594.pdf
 
@@ -996,6 +1051,12 @@ https://arxiv.org/pdf/1905.09712.pdf
 
 Split learning for health: Distributed deep learning without sharing raw patient data
 https://arxiv.org/pdf/1812.00564.pdf
+
+SmartPC: Hierarchical pace control in real-time federated learning system
+https://www.ece.ucf.edu/~zsguo/pubs/conference_workshop/RTSS2019b.pdf
+
+DeCaf: Iterative collaborative processing over the edge
+https://www.usenix.org/system/files/hotedge19-paper-kumar.pdf
 
 ## Wireless Communication and Cloud Computing
 Researcher: 
@@ -1147,6 +1208,9 @@ https://arxiv.org/pdf/1910.14648.pdf
 Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation
 https://arxiv.org/pdf/1910.13067.pdf
 
+Federated Learning over Wireless Networks: Optimization Model Design and Analysis
+http://networking.khu.ac.kr/layouts/net/publications/data/2019)Federated%20Learning%20over%20Wireless%20Network.pdf
+
 Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach
 https://arxiv.org/pdf/1910.09172.pdf
 
@@ -1216,6 +1280,8 @@ https://arxiv.org/pdf/1811.12082.pdf
 In-Edge AI: Intelligentizing Mobile Edge Computing, Caching and Communication by Federated Learning
 https://arxiv.org/pdf/1809.07857.pdf
 
+Asynchronous Task Allocation for Federated and Parallelized Mobile Edge Learning
+https://arxiv.org/pdf/1905.01656.pdf
 
 ## FL System Design
 Towards Federated Learning at Scale: System Design
@@ -1277,7 +1343,8 @@ https://arxiv.org/pdf/1908.01924.pdf
 Functional Federated Learning in Erlang (ffl-erl)
 https://arxiv.org/pdf/1808.08143.pdf
 
-
+HierTrain: Fast Hierarchical Edge AI Learning With Hybrid Parallelism in Mobile-Edge-Cloud Computing
+https://arxiv.org/pdf/2003.09876.pdf
 
 # Models and Applications
 
@@ -1533,6 +1600,10 @@ https://arxiv.org/pdf/1807.08127.pdf
 Federated Learning for Ultra-Reliable Low-Latency V2V Communications
 https://arxiv.org/pdf/1805.09253.pdf
 
+Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach
+https://ieeexplore.ieee.org/abstract/document/8964354/
+
+
 ### Recommendation System
 (*) Federated Multi-view Matrix Factorization for Personalized Recommendations
 https://arxiv.org/pdf/2004.04256.pdf
@@ -1606,6 +1677,8 @@ https://arxiv.org/pdf/2001.07504.pdf
 A Crowdsourcing Framework for On-Device Federated Learning
 https://arxiv.org/pdf/1911.01046.pdf
 
+PMF: A Privacy-preserving Human Mobility Prediction Framework via Federated Learning
+https://vonfeng.github.io/files/UbiComp2020_PMF_Final.pdf
 
 ## Benchmark and Dataset
 
@@ -1630,7 +1703,7 @@ https://arxiv.org/pdf/1812.01097.pdf
 Functional Federated Learning in Erlang (ffl-erl)
 https://arxiv.org/pdf/1808.08143.pdf
 
-## Survey
+## Surveys
 
 A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
 https://arxiv.org/pdf/1907.09693.pdf
