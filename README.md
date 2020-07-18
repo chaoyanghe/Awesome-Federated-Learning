@@ -204,6 +204,8 @@ Citation: 146
 
 [Don't Use Large Mini-Batches, Use Local SGD](https://arxiv.org/pdf/1808.07217.pdf)
 
+[Understanding Unintended Memorization in Federated Learning](http://arxiv.org/pdf/2006.07490.pdf)
+
 ## Non-IID and Model Personalization
 [The Non-IID Data Quagmire of Decentralized Machine Learning. 2019-10](https://arxiv.org/pdf/1910.00189.pdf)
 
@@ -321,6 +323,8 @@ Highlight: an experimental paper that evaluate FL can help to improve the local 
 
 [Client Adaptation improves Federated Learning with Simulated Non-IID Clients](https://arxiv.org/pdf/2007.04806.pdf)
 
+[Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization](https://arxiv.org/pdf/2007.07481.pdf)
+
 
 ## Vertical Federated Learning
 [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/pdf/1901.08755.pdf)
@@ -375,13 +379,11 @@ Researcher: Tencent Cloud, Libin Wang
 [Matcha: Speeding Up Decentralized SGD via Matching Decomposition Sampling](https://arxiv.org/pdf/1905.09435.pdf) (in above section as well)
 
 ## Neural Architecture Search
-FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18
-https://arxiv.org/abs/2004.08546
+[FedNAS: Federated Deep Learning via Neural Architecture Search. CVPR 2020. 2020-04-18](https://arxiv.org/pdf/2004.08546.pdf
 
 [Real-time Federated Evolutionary Neural Architecture Search. 2020-03](https://arxiv.org/pdf/2003.02793.pdf)
 
-Federated Neural Architecture Search. 2020-06-14
-https://arxiv.org/abs/2002.06352
+[Federated Neural Architecture Search. 2020-06-14](https://arxiv.org/pdf/2002.06352.pdf)
 
 [Differentially-private Federated Neural Architecture Search. 2020-06](https://arxiv.org/pdf/2006.10559.pdf)
 
@@ -422,8 +424,7 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 
 [Semi-supervised knowledge transfer for deep learning from private training data. ICLR 2017](https://arxiv.org/pdf/1610.05755.pdf)
 
-Scalable private learning with PATE. ICLR 2018. 
-https://arxiv.org/abs/1802.08908
+[Scalable private learning with PATE. ICLR 2018. ](https://arxiv.org/pdf/1802.08908.pdf)
 
 # Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
 
@@ -441,8 +442,7 @@ Citation: 9
 [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. ACM CCS 2017. 2017-02-14](https://arxiv.org/pdf/1702.07464.pdf)
 Citation: 284
 
-Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates
-https://arxiv.org/abs/1803.01498
+[Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates](https://arxiv.org/pdf/1803.01498.pdf)
 Citation: 112
 
 [Deep Leakage from Gradients. NIPS 2019](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)
@@ -593,7 +593,8 @@ Citation: 0
 
 [Local Differential Privacy based Federated Learning for Internet of Things. 2020-04-09](https://arxiv.org/pdf/2004.08856.pdf)
 Citation: 0
-[](Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise. 2020-04. https://arxiv.org/pdf/2004.06337.pdf)
+
+[Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise. 2020-04.](https://arxiv.org/pdf/2004.06337.pdf)
 
 [Decentralized Differentially Private Segmentation with PATE. MICCAI 2020 Under Review. 2020-04](https://arxiv.org/pdf/2004.06567.pdf) \
 Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for deep learning from private training data"
@@ -871,7 +872,7 @@ Researcher: Mehdi Bennis, Seong-Lyun Kim
 
 [Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)
 
-[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](http://networking.khu.ac.kr/layouts/net/publications/data/2019)Federated%20Learning%20over%20Wireless%20Network.pdf)
+[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](http://networking.khu.ac.kr/layouts/net/publications/data/2019\)Federated%20Learning%20over%20Wireless%20Network.pdf)
 
 [Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1910.09172.pdf)
 
@@ -1252,3 +1253,5 @@ Researcher: Bingsheng He, NUS [Qinbin Li, PhD, NUS, HKUST](https://qinbinli.com/
 [Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885.pdf)
 
 [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)
+
+[Communication-Efficient Edge AI: Algorithms and Systems](http://arxiv.org/pdf/2002.09668.pdf)
