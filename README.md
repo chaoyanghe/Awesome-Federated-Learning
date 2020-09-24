@@ -4,7 +4,7 @@ A curated list of federated learning publications, re-organized from Arxiv (most
 
 <strong>Last Update: July 17, 2020</strong>.	
 
-## A research library that attempts to align with this publication categorization :
+## A FL research library that attempts to align with this publication categorization :
 FedML: https://fedml.ai
 
 ## Research Areas
