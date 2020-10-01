@@ -49,8 +49,8 @@ FedML: https://fedml.ai
  - [Other](#Other (5))
  
 #### Benchmark, Dataset and Survey (27)
- - [Benchmark and Dataset](#Benchmark-and-Dataset (7))
- - [Survey](#Survey (20))
+ - [Benchmark and Dataset](#Benchmark-and-Dataset)  (7)
+ - [Survey](#Survey) (20)
 
 -------------------
 
