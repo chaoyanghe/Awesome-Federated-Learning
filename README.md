@@ -1215,7 +1215,7 @@ Keywords: Split Learning + Sparsification
 
 [Functional Federated Learning in Erlang (ffl-erl)](https://arxiv.org/pdf/1808.08143.pdf)
 
-## Surveys
+## Survey
 
 [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
 
