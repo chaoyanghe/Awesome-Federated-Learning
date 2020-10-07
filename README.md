@@ -2,7 +2,9 @@
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
 
-<strong>Last Update: July 17, 2020</strong>.	
+<strong>Last Update: October, 6th, 2020</strong>.	
+
+If your publication is not included here, please email to chaoyang.he@usc.edu
 
 ## A FL research library that attempts to align with this publication categorization :
 FedML: https://fedml.ai
