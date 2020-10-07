@@ -9,9 +9,42 @@ If your publication is not included here, please email to chaoyang.he@usc.edu
 ## A FL research library that attempts to align with this publication categorization :
 FedML: https://fedml.ai
 
+## Publications in Top-tier ML/CV/NLP/DM Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD)
+### ICML
+| Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
+|---|---|---|---|---|
+| [Federated Learning with Only Positive Labels](https://arxiv.org/pdf/2004.10342.pdf)                        | Google Research            |   ICML 2020        | label deficiency in multi-class classification    |  regularization |
+| [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://arxiv.org/abs/1910.06378)        | EPFL, Google Research      |   ICML 2020        | heterogeneous data (non-I.I.D)    | nonconvex/convex optimization with variance reduction   |
+| [FedBoost: A Communication-Efficient Algorithm for Federated Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf)    | Google Research, NYU       |   ICML 2020        | communication cost    | ensemble algorithm    |
+| [FetchSGD: Communication-Efficient Federated Learning with Sketching](https://arxiv.org/abs/2007.07682)     | UC Berkeley, JHU, Amazon   |   ICML 2020        | communication cost    | compress model updates with Count Sketch   |
+| [From Local SGD to Local Fixed-Point Methods for Federated Learning](https://arxiv.org/pdf/2004.01442.pdf)  | KAUST                      |   ICML 2020        | communication cost    |  Optimization |
+
+### NeurIPS
+| Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
+|---|---|---|---|---|
+| Lower Bounds and Optimal Algorithms for Personalized Federated Learning | KAUST   | NeurIPS 2020        |  non-I.I.D, personalization   |   |
+| Personalized Federated Learning with Moreau Envelopes  | The University of Sydney | NeurIPS 2020        |  non-I.I.D, personalization   |   |
+| Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach | MIT |   NeurIPS 2020        |  non-I.I.D, personalization   |   |
+| Differentially-Private Federated Contextual Bandits                     | MIT            |   NeurIPS 2020        |  Contextual Bandits   |   |
+| Federated Principal Component Analysis                     | Cambridge            |   NeurIPS 2020        |    PCA |   |
+| FedSplit: an algorithmic framework for fast federated optimization                     | UCB            |   NeurIPS 2020        |   Acceleration  |   |
+| Federated Bayesian Optimization via Thompson Sampling | MIT |   NeurIPS 2020        |     |   |
+| Robust Federated Learning: The Case of Affine Distribution Shifts | MIT  | NeurIPS 2020        |   Privacy, Robustness  |   |
+| An Efficient Framework for Clustered Federated Learning | UCB | NeurIPS 2020        |    heterogeneous data (non-iid) |   |
+| Distributionally Robust Federated Averaging | PSU |   NeurIPS 2020        |  Privacy, Robustness   |   |
+| Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge | USC |   NeurIPS 2020        |  Efficient Training of Large DNN at Edge   |   |
+| A Scalable Approach for Privacy-Preserving Collaborative Machine Learning  | USC |   NeurIPS 2020        |  Scalability   |   |
+| Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization | CMU |   NeurIPS 2020        |   local update step heterogeneity  |   |
+| Attack of the Tails: Yes, You Really Can Backdoor Federated Learning | Wiscosin|   NeurIPS 2020        |  Privacy, Robustness   |   |
+| Federated Accelerated Stochastic Gradient Descent | Stanford |   NeurIPS 2020        |  Acceleration   |   |
+| Inverting Gradients - How easy is it to break privacy in federated learning? | University of Siegen   | NeurIPS 2020        |  Privacy, Robustness   |   |
+| Ensemble Distillation for Robust Model Fusion in Federated Learning  | EPFL |   NeurIPS 2020        |   Privacy, Robustness  |   |
+| Optimal Topology Design for Cross-Silo Federated Learning  | Inria | NeurIPS 2020        | Topology Optimization    |   |
+
+
 ## Research Areas
 #### Statistical Challenges: data distribution heterogeneity and label deficiency (159)
- - [Distributed Optimization](#Distributed-optimization (68)) (Important Optimizer Baselines)
+ - [Distributed Optimization](#Distributed-optimization (68))
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (53))
  - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
  - [Vertical Federated Learning](#Vertical-Federated-Learning (8))
@@ -20,6 +53,9 @@ FedML: https://fedml.ai
  - [Neural Architecture Search](#Neural-Architecture-Search (4))
  - [Transfer Learning](#Transfer-Learning (11))
  - [Continual Learning](#continual-learning (1))
+ - [Domain Adaptation](#Domain-Adaptation)
+ - [Reinforcement Learning](#Reinforcement-Learning)
+ - [Bayesian Learning ](#Bayesian Learning )
 
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (88)
@@ -29,7 +65,7 @@ FedML: https://fedml.ai
  - [Interpretability](#Interpretability)
  - [Incentive Mechanism](#Incentive-Mechanism (5))
 
-#### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system (141)
+#### System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL system (141)
  - [Communication-Efficiency](#Communication-Efficiency (29))
  - [Straggler Problem](#straggler-problem (4))
  - [Computation Efficiency](#Computation-Efficiency (14))
@@ -390,7 +426,6 @@ Researcher: Tencent Cloud, Libin Wang
 
 [Differentially-private Federated Neural Architecture Search. 2020-06](https://arxiv.org/pdf/2006.10559.pdf)
 
-
 ## Transfer Learning
 
 [Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data](https://arxiv.org/pdf/1811.11479.pdf)
@@ -428,6 +463,17 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 [Semi-supervised knowledge transfer for deep learning from private training data. ICLR 2017](https://arxiv.org/pdf/1610.05755.pdf)
 
 [Scalable private learning with PATE. ICLR 2018. ](https://arxiv.org/pdf/1802.08908.pdf)
+
+
+## Domain Adaptation
+[Federated Adversarial Domain Adaptation. ICLR 2020.](https://arxiv.org/pdf/1911.02054.pdf)
+
+## Reinforcement Learning
+[Federated Deep Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)
+
+## Bayesian Learning 
+[Differentially Private Federated Variational Inference. NeurIPS 2019 FL Workshop. 2019-11-24.](https://arxiv.org/pdf/1911.10563.pdf)
+
 
 # Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
 
@@ -928,6 +974,8 @@ Researcher: Mehdi Bennis, Seong-Lyun Kim
 ## FL System Design
 [Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
 
+[FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/pdf/2007.13518.pdf)
+
 [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
 
 [FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction](https://arxiv.org/pdf/2006.07273.pdf)
@@ -973,6 +1021,10 @@ https://ldp-machine-learning.herokuapp.com/
 # Models and Applications
 
 ## Models
+### GCN (Graph Convolutional Network)
+
+### Generative Models (GAN, Bayesian Generative Models, etc)
+
 [Discrete-Time Cox Models](https://arxiv.org/pdf/2006.08997.pdf)
 
 [Generative Models for Effective ML on Private, Decentralized Datasets. Google. ICLR 2020](https://arxiv.org/pdf/1911.06679.pdf)
@@ -983,43 +1035,43 @@ Citation: 8
 [(GAN) Federated Generative Adversarial Learning. 2020-05-07](https://arxiv.org/pdf/2005.03793.pdf)
 Citation: 0
 
-[(VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/pdf/2002.12301.pdf)
-
-[Federated Extra-Trees with Privacy Preserving](https://arxiv.org/pdf/2002.07323.pdf)
-
-[(Clustering) Federated Clustering via Matrix Factorization Models: From Model Averaging to Gradient Sharing](https://arxiv.org/pdf/2002.04930.pdf)
-
-[SecureGBM: Secure Multi-Party Gradient Boosting](https://arxiv.org/pdf/1911.11997.pdf)
-
-[Differentially Private Federated Variational Inference](https://arxiv.org/pdf/1911.10563.pdf)
-
-[Practical Federated Gradient Boosting Decision Trees. AAAI 2020.](https://arxiv.org/pdf/1911.04206.pdf)
-
-[Federated Adversarial Domain Adaptation. ICLR 2020.](https://arxiv.org/pdf/1911.02054.pdf)
+[Differentially Private Data Generative Models](https://arxiv.org/pdf/1812.02274.pdf)
 
 [GRAFFL: Gradient-free Federated Learning of a Bayesian Generative Model](https://arxiv.org/pdf/1910.08489.pdf)
 
-[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)
+### VAE (Variational Autoencoder)
 
-[Privacy Preserving QoE Modeling using Collaborative Learning](https://arxiv.org/pdf/1906.09248.pdf)
+[(VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/pdf/2002.12301.pdf)
+
+### MF (Matrix Factorization)
 
 [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf)
 
+[(Clustering) Federated Clustering via Matrix Factorization Models: From Model Averaging to Gradient Sharing](https://arxiv.org/pdf/2002.04930.pdf)
+
 [Privacy Threats Against Federated Matrix Factorization](https://arxiv.org/pdf/2007.01587.pdf)
+
+### GBDT (Gradient Boosting Decision Trees)
+
+[Practical Federated Gradient Boosting Decision Trees. AAAI 2020.](https://arxiv.org/pdf/1911.04206.pdf)
+
+[Federated Extra-Trees with Privacy Preserving](https://arxiv.org/pdf/2002.07323.pdf)
+
+[SecureGBM: Secure Multi-Party Gradient Boosting](https://arxiv.org/pdf/1911.11997.pdf)
 
 [Federated Forest](https://arxiv.org/pdf/1905.10053.pdf)
 
-[Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf)
+[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)
 
-[Federated Deep Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)
+### Other Model
+[Privacy Preserving QoE Modeling using Collaborative Learning](https://arxiv.org/pdf/1906.09248.pdf)
 
-[Differentially Private Data Generative Models](https://arxiv.org/pdf/1812.02274.pdf)
-
-[DÏoT: A Federated Self-learning Anomaly Detection System for IoT](https://arxiv.org/pdf/1804.07474.pdf)
 
 [Distributed Dual Coordinate Ascent in General Tree Networks and Its Application in Federated Learning](https://arxiv.org/pdf/1703.04785.pdf)
 
 ## Natural language Processing
+[Federated pretraining and fine tuning of BERT using clinical notes from multiple silos](https://arxiv.org/pdf/2002.08562.pdf)
+
 [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 
 [Federated Learning for Keyword Spotting](https://arxiv.org/pdf/1810.05512.pdf)
@@ -1031,8 +1083,6 @@ Citation: 0
 [FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning. MSRA. 2020-03.](https://arxiv.org/pdf/2003.09288.pdf)
 
 [Federated Learning of N-gram Language Models. Google. ACL 2019.](https://www.aclweb.org/anthology/K19-1012.pdf)
-
-[Federated pretraining and fine tuning of BERT using clinical notes from multiple silos](https://arxiv.org/pdf/2002.08562.pdf)
 
 [Federated User Representation Learning](https://arxiv.org/pdf/1909.12535.pdf)
 
@@ -1196,6 +1246,10 @@ Keywords: Split Learning + Sparsification
 [A Crowdsourcing Framework for On-Device Federated Learning](https://arxiv.org/pdf/1911.01046.pdf)
 
 [PMF: A Privacy-preserving Human Mobility Prediction Framework via Federated Learning](https://vonfeng.github.io/files/UbiComp2020_PMF_Final.pdf)
+
+[Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf)
+
+[DÏoT: A Federated Self-learning Anomaly Detection System for IoT](https://arxiv.org/pdf/1804.07474.pdf)
 
 # Benchmark, Dataset and Survey 
 
