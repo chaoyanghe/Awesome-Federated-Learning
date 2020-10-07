@@ -40,6 +40,7 @@ FedML: https://fedml.ai
 | Inverting Gradients - How easy is it to break privacy in federated learning? | University of Siegen   | NeurIPS 2020        |  Privacy, Robustness   |   |
 | Ensemble Distillation for Robust Model Fusion in Federated Learning  | EPFL |   NeurIPS 2020        |   Privacy, Robustness  |   |
 | Optimal Topology Design for Cross-Silo Federated Learning  | Inria | NeurIPS 2020        | Topology Optimization    |   |
+| Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms | University of Minnesota | NeurIPS 2020 | | | 
 
 (according to https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
 
