@@ -8,7 +8,7 @@ A curated list of federated learning publications, re-organized from Arxiv (most
 FedML: https://fedml.ai
 
 ## Research Areas
-#### Statistical Challenges: distribution heterogeneity and label deficiency (159)
+#### Statistical Challenges: data distribution heterogeneity and label deficiency (159)
  - [Distributed Optimization](#Distributed-optimization (68)) (Important Optimizer Baselines)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (53))
  - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
