@@ -9,7 +9,7 @@ FedML: https://fedml.ai
 
 ## Research Areas
 #### Statistical Challenges: distribution heterogeneity and label deficiency (159)
- - [Distributed Optimization (Important Optimizer Baselines)](#Distributed-optimization (68))
+ - [Distributed Optimization](#Distributed-optimization (68) (Important Optimizer Baselines))
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (53))
  - [Vertical Federated Learning](#Vertical-Federated-Learning (8))
  - [Decentralized FL](#Decentralized-FL (7))
