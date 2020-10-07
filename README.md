@@ -30,7 +30,7 @@ FedML: https://fedml.ai
 | FedSplit: an algorithmic framework for fast federated optimization                     | UCB            |   NeurIPS 2020        |   Acceleration  |   |
 | Federated Bayesian Optimization via Thompson Sampling | MIT |   NeurIPS 2020        |     |   |
 | Robust Federated Learning: The Case of Affine Distribution Shifts | MIT  | NeurIPS 2020        |   Privacy, Robustness  |   |
-| An Efficient Framework for Clustered Federated Learning | UCB | NeurIPS 2020        |    heterogeneous data (non-iid) |   |
+| An Efficient Framework for Clustered Federated Learning | UCB | NeurIPS 2020        |    heterogeneous data (non-I.I.D) |   |
 | Distributionally Robust Federated Averaging | PSU |   NeurIPS 2020        |  Privacy, Robustness   |   |
 | Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge | USC |   NeurIPS 2020        |  Efficient Training of Large DNN at Edge   |   |
 | A Scalable Approach for Privacy-Preserving Collaborative Machine Learning  | USC |   NeurIPS 2020        |  Scalability   |   |
@@ -40,6 +40,10 @@ FedML: https://fedml.ai
 | Inverting Gradients - How easy is it to break privacy in federated learning? | University of Siegen   | NeurIPS 2020        |  Privacy, Robustness   |   |
 | Ensemble Distillation for Robust Model Fusion in Federated Learning  | EPFL |   NeurIPS 2020        |   Privacy, Robustness  |   |
 | Optimal Topology Design for Cross-Silo Federated Learning  | Inria | NeurIPS 2020        | Topology Optimization    |   |
+
+(according to https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
+
+Note: most of the accepted publications are preparing the camera ready revision, thus we are not sure the detail of their proposed methods
 
 
 ## Research Areas
