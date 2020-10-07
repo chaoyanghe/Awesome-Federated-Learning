@@ -72,10 +72,6 @@ FedML: https://fedml.ai
 
 [Local Stochastic Approximation: A Unified View of Federated Learning and Distributed Multi-Task Reinforcement Learning Algorithms](https://arxiv.org/pdf/2006.13460.pdf)
 
-Researcher: 
-Thinh T. Doan
-https://sites.google.com/site/thinhdoan210/home
-
 [Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning](https://arxiv.org/pdf/2005.06105.pdf)
 
 [Exact Support Recovery in Federated Regression with One-shot Communication](https://arxiv.org/pdf/2006.12583.pdf)
@@ -84,8 +80,6 @@ https://sites.google.com/site/thinhdoan210/home
 Researcher: Ruoyu Sun, UIUC
 
 [Robust Federated Learning: The Case of Affine Distribution Shifts](https://arxiv.org/pdf/2006.08907.pdf)
-Researcher: Ramtin Pedarsani, UCSB
-Amirhossein Reisizadeh, PhD, UCSB
 
 [Personalized Federated Learning with Moreau Envelopes](https://arxiv.org/pdf/2006.08848.pdf)
 
