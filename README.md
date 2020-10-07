@@ -45,6 +45,7 @@ FedML: https://fedml.ai
 | Byzantine Resilient Distributed Multi-Task Learning | Vanderbilt University | NeurIPS 2020 | | | 
 | Distributed Newton Can Communicate Less and Resist Byzantine Workers | UCB | NeurIPS 2020 | | |
 | Minibatch vs Local SGD for Heterogeneous Distributed Learning | TTIC | NeurIPS 2020 | | |
+| Election Coding for Distributed Learning: Protecting SignSGD against Byzantine Attacks | NeurIPS 2020 | | |
 
 (according to https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
 
