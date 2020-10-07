@@ -44,6 +44,7 @@ FedML: https://fedml.ai
 | Distributed Distillation for On-Device Learning | Stanford | NeurIPS 2020 | | |
 | Byzantine Resilient Distributed Multi-Task Learning | Vanderbilt University | NeurIPS 2020 | | | 
 | Distributed Newton Can Communicate Less and Resist Byzantine Workers | UCB | NeurIPS 2020 | | |
+| Minibatch vs Local SGD for Heterogeneous Distributed Learning | TTIC | NeurIPS 2020 | | |
 
 (according to https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
 
