@@ -42,6 +42,7 @@ FedML: https://fedml.ai
 | Optimal Topology Design for Cross-Silo Federated Learning  | Inria | NeurIPS 2020        | Topology Optimization    |   |
 | Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms | University of Minnesota | NeurIPS 2020 | | | 
 | Distributed Distillation for On-Device Learning | Stanford | NeurIPS 2020 | | |
+| Byzantine Resilient Distributed Multi-Task Learning | Vanderbilt University | NeurIPS 2020 | | | 
 
 (according to https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
 
