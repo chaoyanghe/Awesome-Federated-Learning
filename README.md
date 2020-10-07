@@ -9,15 +9,16 @@ FedML: https://fedml.ai
 
 ## Research Areas
 #### Statistical Challenges: distribution heterogeneity and label deficiency (159)
- - [Distributed Optimization](#Distributed-optimization (68) (Important Optimizer Baselines))
+ - [Distributed Optimization](#Distributed-optimization (68)) (Important Optimizer Baselines)
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (53))
+ - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
  - [Vertical Federated Learning](#Vertical-Federated-Learning (8))
  - [Decentralized FL](#Decentralized-FL (7))
  - [Hierarchical FL](#Hierarchical-FL (8))
  - [Neural Architecture Search](#Neural-Architecture-Search (4))
  - [Transfer Learning](#Transfer-Learning (11))
  - [Continual Learning](#continual-learning (1))
- - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
+
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (88)
  - [Adversarial-Attack-and-Defense](#Adversarial-Attack-and-Defense)
@@ -56,7 +57,7 @@ FedML: https://fedml.ai
 
 # Statistical Challenges: distribution heterogeneity and label deficiency 
 
-## Distributed optimization (Important Optimizer Baselines)
+## Distributed optimization
 [Federated Optimization:Distributed Optimization Beyond the Datacenter. NIPS 2016 workshop.](https://arxiv.org/pdf/1511.03575.pdf)
 
 [Communication-Efficient Learning of Deep Networks from Decentralized Data. 2016-02. AISTAT 2017. FedAvg](https://arxiv.org/pdf/1602.05629.pdf)
