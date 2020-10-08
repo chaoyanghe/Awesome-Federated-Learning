@@ -1,3 +1,5 @@
+## A FL research library that attempts to align with this publication categorization : FedML: https://fedml.ai
+
 # Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
@@ -5,9 +7,6 @@ A curated list of federated learning publications, re-organized from Arxiv (most
 <strong>Last Update: October, 6th, 2020</strong>.	
 
 If your publication is not included here, please email to chaoyang.he@usc.edu
-
-## A FL research library that attempts to align with this publication categorization :
-FedML: https://fedml.ai
 
 ## Publications in Top-tier ML/CV/NLP/DM Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD)
 ### ICML
