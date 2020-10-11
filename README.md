@@ -109,8 +109,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
 
 [Communication-Efficient Learning of Deep Networks from Decentralized Data. 2016-02. AISTAT 2017.](https://arxiv.org/pdf/1602.05629.pdf)
 
-[Federated Optimization:Distributed Optimization Beyond the Datacenter. NIPS 2016 workshop.](https://arxiv.org/pdf/1511.03575.pdf)
-
+[Federated Optimization: Distributed Optimization Beyond the Datacenter. NIPS 2016 workshop.](https://arxiv.org/pdf/1511.03575.pdf)
 
 [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
 
