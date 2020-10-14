@@ -714,6 +714,8 @@ Citation: 2
 
 [A Learning-based Incentive Mechanism forFederated Learning](https://www.u-aizu.ac.jp/~pengli/files/fl_incentive_iot.pdf)
 
+[A Crowdsourcing Framework for On-Device Federated Learning](https://arxiv.org/pdf/1911.01046.pdf)
+
 # System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL wireless communication system
 
 ## Communication Efficiency
@@ -1250,8 +1252,6 @@ Keywords: Split Learning + Sparsification
 [Self-supervised audio representation learning for mobile devices](https://arxiv.org/pdf/1905.11796.pdf)
 
 [Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics](https://arxiv.org/pdf/2001.07504.pdf)
-
-[A Crowdsourcing Framework for On-Device Federated Learning](https://arxiv.org/pdf/1911.01046.pdf)
 
 [PMF: A Privacy-preserving Human Mobility Prediction Framework via Federated Learning](https://vonfeng.github.io/files/UbiComp2020_PMF_Final.pdf)
 
