@@ -64,7 +64,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Continual Learning](#continual-learning (1))
  - [Domain Adaptation](#Domain-Adaptation)
  - [Reinforcement Learning](#Reinforcement-Learning)
- - [Bayesian Learning ](#Bayesian Learning )
+ - [Bayesian Learning ](#Bayesian-Learning )
 
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (88)
