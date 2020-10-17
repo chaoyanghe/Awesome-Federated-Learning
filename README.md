@@ -4,7 +4,7 @@
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
 
-<strong>Last Update: October, 6th, 2020</strong>.	
+<strong>Last Update: October, 15th, 2020</strong>.	
 
 If your publication is not included here, please email to chaoyang.he@usc.edu
 
@@ -105,19 +105,32 @@ Note: most of the accepted publications are preparing the camera ready revision,
 # Statistical Challenges: distribution heterogeneity and label deficiency 
 
 ## Distributed optimization
-<span style="color:blue">Important Optimizer Baselines:</span>
+<span style="color:blue">Most Important Federated Optimizer Baselines:</span>
 
+FedAvg:
 [Communication-Efficient Learning of Deep Networks from Decentralized Data. 2016-02. AISTAT 2017.](https://arxiv.org/pdf/1602.05629.pdf)
+
+FedOpt:
+[Adaptive Federated Optimization. ICLR 2021 (Under Review). 2020-02-29](https://arxiv.org/pdf/2003.00295.pdf)
+
+FedNov:
+[Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization. NeurIPS 2020 ](https://arxiv.org/abs/2007.07481)
+
+-------------------------
 
 [Federated Optimization: Distributed Optimization Beyond the Datacenter. NIPS 2016 workshop.](https://arxiv.org/pdf/1511.03575.pdf)
 
 [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
+
 
 [Stochastic, Distributed and Federated Optimization for Machine Learning. FL PhD Thesis. By Jakub](https://arxiv.org/pdf/1707.01155.pdf)
 
 [Collaborative Deep Learning in Fixed Topology Networks](https://arxiv.org/pdf/1706.07880.pdf)
 
 [Federated Multi-Task Learning](https://arxiv.org/pdf/1705.10467.pdf)
+
+[LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning]
+https://arxiv.org/abs/1805.09965
 
 [Local Stochastic Approximation: A Unified View of Federated Learning and Distributed Multi-Task Reinforcement Learning Algorithms](https://arxiv.org/pdf/2006.13460.pdf)
 
@@ -156,7 +169,6 @@ Researcher: Mehrdad Mahdavi, Jin Rong’s PhD Student http://www.cse.psu.edu/~mz
 
 [Federated Residual Learning. 2020-03](https://arxiv.org/pdf/2003.12880.pdf)
 
-[Adaptive Federated Optimization. ICML 2020. 2020-02-29](https://arxiv.org/pdf/2003.00295.pdf)
 
 [Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization. ICML 2020.](https://arxiv.org/pdf/2002.11364.pdf)
 
@@ -391,6 +403,8 @@ Highlight: an experimental paper that evaluate FL can help to improve the local 
 [Asymmetrical Vertical Federated Learning](https://arxiv.org/pdf/2004.07427.pdf)
 Researcher: Tencent Cloud, Libin Wang
 
+[VAFL: a Method of Vertical Asynchronous Federated Learning, ICML workshop on FL, 2020](https://arxiv.org/abs/2007.06081)
+
 
 ## Decentralized FL
 [Central Server Free Federated Learning over Single-sided Trust Social Networks](https://arxiv.org/pdf/1910.04956.pdf)
@@ -519,6 +533,9 @@ Highlight: client attack
 [Mitigating Sybils in Federated Learning Poisoning. 2018-08-14. RAID 2020](https://arxiv.org/pdf/1808.04866.pdf)
 Citation: 41
 Highlight: defense
+
+[RSA: Byzantine-Robust Stochastic Aggregation Methods for Distributed Learning from Heterogeneous Datasets, AAAI 2019](https://arxiv.org/abs/1811.03761)
+Citation: 34
 
 [(*) A Framework for Evaluating Gradient Leakage Attacks in Federated Learning. 2020-04-22](https://arxiv.org/pdf/2004.10397.pdf)
 Researcher: Wenqi Wei, Ling Liu, GaTech
