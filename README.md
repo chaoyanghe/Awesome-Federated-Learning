@@ -105,7 +105,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
 # Statistical Challenges: distribution heterogeneity and label deficiency 
 
 ## Distributed optimization
-<span style="color:blue">Most Important Federated Optimizer Baselines:</span>
+<span style="color:blue">Userful Federated Optimizer Baselines:</span>
 
 FedAvg:
 [Communication-Efficient Learning of Deep Networks from Decentralized Data. 2016-02. AISTAT 2017.](https://arxiv.org/pdf/1602.05629.pdf)
@@ -114,7 +114,7 @@ FedOpt:
 [Adaptive Federated Optimization. ICLR 2021 (Under Review). 2020-02-29](https://arxiv.org/pdf/2003.00295.pdf)
 
 FedNov:
-[Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization. NeurIPS 2020 ](https://arxiv.org/abs/2007.07481)
+[Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization. NeurIPS 2020](https://arxiv.org/abs/2007.07481)
 
 -------------------------
 
@@ -122,15 +122,13 @@ FedNov:
 
 [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
 
-
 [Stochastic, Distributed and Federated Optimization for Machine Learning. FL PhD Thesis. By Jakub](https://arxiv.org/pdf/1707.01155.pdf)
 
 [Collaborative Deep Learning in Fixed Topology Networks](https://arxiv.org/pdf/1706.07880.pdf)
 
 [Federated Multi-Task Learning](https://arxiv.org/pdf/1705.10467.pdf)
 
-[LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning]
-https://arxiv.org/abs/1805.09965
+[LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning](https://arxiv.org/abs/1805.09965)
 
 [Local Stochastic Approximation: A Unified View of Federated Learning and Distributed Multi-Task Reinforcement Learning Algorithms](https://arxiv.org/pdf/2006.13460.pdf)
 
