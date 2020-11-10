@@ -31,7 +31,7 @@ If your publication is not included here, please email to chaoyang.he@usc.edu
 | Robust Federated Learning: The Case of Affine Distribution Shifts | MIT  | NeurIPS 2020        |   Privacy, Robustness  |   |
 | An Efficient Framework for Clustered Federated Learning | UCB | NeurIPS 2020        |    heterogeneous data (non-I.I.D) |   |
 | Distributionally Robust Federated Averaging | PSU |   NeurIPS 2020        |  Privacy, Robustness   |   |
-| Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge | USC |   NeurIPS 2020        |  Efficient Training of Large DNN at Edge   |   |
+| Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge | USC |   NeurIPS 2020        |  Efficient Training of Large DNN at Edge   |   |
 | A Scalable Approach for Privacy-Preserving Collaborative Machine Learning  | USC |   NeurIPS 2020        |  Scalability   |   |
 | Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization | CMU |   NeurIPS 2020        |   local update step heterogeneity  |   |
 | Attack of the Tails: Yes, You Really Can Backdoor Federated Learning | Wiscosin|   NeurIPS 2020        |  Privacy, Robustness   |   |
