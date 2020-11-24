@@ -8,6 +8,10 @@ A curated list of federated learning publications, re-organized from Arxiv (most
 
 If your publication is not included here, please email to chaoyang.he@usc.edu
 
+# Foundations and Trends in Machine Learning
+We are thrilled to share that [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) has been accepted to [FnTML](https://www.nowpublishers.com/MAL) (<b>Foundations and Trends in Machine Learning</b>, the chief editor is [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)).
+
+
 ## Publications in Top-tier ML/CV/NLP/DM Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD)
 ### ICML
 | Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
