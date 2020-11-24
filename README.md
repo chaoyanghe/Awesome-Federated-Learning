@@ -806,6 +806,8 @@ Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
 [A performance evaluation of federated learning algorithms](https://www.researchgate.net/profile/Gregor_Ulm/[publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms]/(links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf))
 
+
+
 ## Straggler Problem
 
 [Coded Federated Learning. Presented at the Wireless Edge Intelligence Workshop, IEEE GLOBECOM 2019](https://arxiv.org/pdf/2002.09574.pdf)
@@ -999,6 +1001,8 @@ Researcher: Mehdi Bennis, Seong-Lyun Kim
 [In-Edge AI: Intelligentizing Mobile Edge Computing, Caching and Communication by Federated Learning](https://arxiv.org/pdf/1809.07857.pdf)
 
 [Asynchronous Task Allocation for Federated and Parallelized Mobile Edge Learning](https://arxiv.org/pdf/1905.01656.pdf)
+
+[CoLearn: enabling federated learning in MUD-compliant IoT edge networks](CoLearn: enabling federated learning in MUD-compliant IoT edge networks)
 
 ## FL System Design
 [Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
