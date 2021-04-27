@@ -69,6 +69,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Domain Adaptation](#Domain-Adaptation)
  - [Reinforcement Learning](#Reinforcement-Learning)
  - [Bayesian Learning ](#Bayesian-Learning )
+ - [Causal Learning](#Causal-Learning )
 
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (88)
@@ -498,6 +499,8 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 ## Bayesian Learning 
 [Differentially Private Federated Variational Inference. NeurIPS 2019 FL Workshop. 2019-11-24.](https://arxiv.org/pdf/1911.10563.pdf)
 
+## Causal Learning
+[Towards Causal Federated Learning For Enhanced Robustness and Privacy. ICLR 2021 DPML Workshop](https://arxiv.org/pdf/2104.06557.pdf)
 
 # Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
 
@@ -1268,6 +1271,7 @@ Keywords: Split Learning + Sparsification
 
 ## Blockchain
 [Blockchained On-Device Federated Learning](https://arxiv.org/pdf/1808.03949.pdf)
+[Record and reward federated learning contributions with blockchain](https://mblocklab.com/RecordandReward.pdf)
 
 ## Other
 [Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing](https://arxiv.org/pdf/1907.10218.pdf)
