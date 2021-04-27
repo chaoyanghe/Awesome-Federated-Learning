@@ -86,7 +86,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Wireless Communication and Cloud Computing](#Wireless-Communication-and-Cloud-Computing (74))
  - [FL System Design](#FL-System-Design (20))
 
-#### Models and Applications (103)
+#### Models and Applications (104)
  - [Models](#Models (22))
  - [Natural language Processing](#Natural-language-Processing (15))
  - [Computer Vision](#Computer-Vision (3))
@@ -98,7 +98,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Smart City](#Smart-City (2))
  - [Robotics](#Robotics (2))
  - [Networking](#Networking (1))
- - [Blockchain](#Blockchain (1))
+ - [Blockchain](#Blockchain (2))
  - [Other](#Other (5))
  
 #### Benchmark, Dataset and Survey (27)
