@@ -724,6 +724,9 @@ Citation: 2
 
 
 ## Incentive Mechanism
+
+[Record and reward federated learning contributions with blockchain. IEEE CyberC 2019](https://mblocklab.com/RecordandReward.pdf)
+
 [FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC. ICDCS 2020](https://arxiv.org/pdf/2002.09699.pdf)
 
 [Toward an Automated Auction Framework for Wireless Federated Learning Services Market](https://arxiv.org/pdf/1912.06370.pdf)
@@ -1271,6 +1274,7 @@ Keywords: Split Learning + Sparsification
 
 ## Blockchain
 [Blockchained On-Device Federated Learning](https://arxiv.org/pdf/1808.03949.pdf)
+
 [Record and reward federated learning contributions with blockchain](https://mblocklab.com/RecordandReward.pdf)
 
 ## Other
