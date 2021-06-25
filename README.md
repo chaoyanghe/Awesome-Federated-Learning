@@ -512,6 +512,11 @@ Citation: 128
 Highlight: by Google
 Citation: 9
 
+[DBA: Distributed Backdoor Attacks against Federated Learning. ICLR 2020.](https://openreview.net/pdf?id=rkgyS0VFvr)
+Citation: 66
+
+[CRFL: Certifiably Robust Federated Learning against Backdoor Attacks. ICML 2021.](https://arxiv.org/pdf/2106.08283.pdf)
+
 [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. ACM CCS 2017. 2017-02-14](https://arxiv.org/pdf/1702.07464.pdf)
 Citation: 284
 
