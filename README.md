@@ -488,6 +488,8 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 
 [Scalable private learning with PATE. ICLR 2018. ](https://arxiv.org/pdf/1802.08908.pdf)
 
+[Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity. ICDCS 2021.](https://arxiv.org/abs/2105.00562)
+
 
 ## Domain Adaptation
 [Federated Adversarial Domain Adaptation. ICLR 2020.](https://arxiv.org/pdf/1911.02054.pdf)
