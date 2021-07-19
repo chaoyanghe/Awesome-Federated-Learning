@@ -386,6 +386,8 @@ Highlight: an experimental paper that evaluate FL can help to improve the local 
 
 [Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization](https://arxiv.org/pdf/2007.07481.pdf)
 
+[Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity. ICDCS 2021.](https://arxiv.org/abs/2105.00562)
+
 
 ## Vertical Federated Learning
 [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/pdf/1901.08755.pdf)
@@ -487,8 +489,6 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 [Semi-supervised knowledge transfer for deep learning from private training data. ICLR 2017](https://arxiv.org/pdf/1610.05755.pdf)
 
 [Scalable private learning with PATE. ICLR 2018. ](https://arxiv.org/pdf/1802.08908.pdf)
-
-[Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity. ICDCS 2021.](https://arxiv.org/abs/2105.00562)
 
 
 ## Domain Adaptation
