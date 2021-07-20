@@ -4,7 +4,7 @@
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
 
-<strong>Last Update: July, 19th, 2021</strong>.	
+<strong>Last Update: July, 20th, 2021</strong>.	
 
 If your publication is not included here, please email to chaoyang.he@usc.edu
 
