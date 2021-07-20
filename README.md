@@ -1064,30 +1064,51 @@ https://ldp-machine-learning.herokuapp.com/
 ### Graph Neural Networks
 
 [Peer-to-peer federated learning on graphs](https://arxiv.org/pdf/1901.11173)
+
 [Towards Federated Graph Learning for Collaborative Financial Crimes Detection](https://arxiv.org/pdf/1909.12946)
+
 [A Graph Federated Architecture with Privacy Preserving Learning](https://arxiv.org/pdf/2104.13215)
+
 [Federated Myopic Community Detection with One-shot Communication](https://arxiv.org/pdf/2106.07255)
 
 [Federated Dynamic GNN with Secure Aggregation](https://arxiv.org/pdf/2009.07351)
+
 [Privacy-Preserving Graph Neural Network for Node Classification](https://arxiv.org/pdf/2005.11903)
+
 [ASFGNN: Automated Separated-Federated Graph Neural Network](https://arxiv.org/pdf/2011.03248)
+
 [GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs](https://arxiv.org/pdf/2012.04187)
+
 [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2102.04925)
+
 [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/pdf/2104.07145) 
+
 [FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search](https://arxiv.org/pdf/2104.04141)
+
 [Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/pdf/2104.14628)
+
 [FedGL: Federated Graph Learning Framework with Global Self-Supervision](https://arxiv.org/pdf/2105.03170)
+
 [Federated Graph Learning -- A Position Paper](https://arxiv.org/pdf/2105.11099)
+
 [SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://arxiv.org/pdf/2106.02743)
+
 [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://arxiv.org/pdf/2106.05223)
+
 [A Vertical Federated Learning Framework for Graph Convolutional Network](https://arxiv.org/pdf/2106.11593)
+
 [Federated Graph Classification over Non-IID Graphs](https://arxiv.org/pdf/2106.13423)
+
 [Subgraph Federated Learning with Missing Neighbor Generation](https://arxiv.org/pdf/2106.13430)
 
 ### Federated Learning on Knowledge Graphs
+
 [FedE: Embedding Knowledge Graphs in Federated Setting](https://arxiv.org/pdf/2010.12882)
+
 [Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty](https://arxiv.org/pdf/2011.11369)
+
 [Federated Knowledge Graphs Embedding](https://arxiv.org/pdf/2105.07615)
+
 
 ### Generative Models (GAN, Bayesian Generative Models, etc)
 
