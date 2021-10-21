@@ -71,6 +71,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Domain Adaptation](#Domain-Adaptation)
  - [Reinforcement Learning](#Reinforcement-Learning)
  - [Bayesian Learning ](#Bayesian-Learning )
+ - [Causal Learning](#Causal-Learning )
 
 
 #### Trustworthiness: security, privacy, fairness, incentive mechanism, etc. (88)
@@ -87,7 +88,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Wireless Communication and Cloud Computing](#Wireless-Communication-and-Cloud-Computing (74))
  - [FL System Design](#FL-System-Design (20))
 
-#### Models and Applications (103)
+#### Models and Applications (104)
  - [Models](#Models (22))
  - [Natural language Processing](#Natural-language-Processing (15))
  - [Computer Vision](#Computer-Vision (3))
@@ -99,7 +100,7 @@ Note: most of the accepted publications are preparing the camera ready revision,
  - [Smart City](#Smart-City (2))
  - [Robotics](#Robotics (2))
  - [Networking](#Networking (1))
- - [Blockchain](#Blockchain (1))
+ - [Blockchain](#Blockchain (2))
  - [Other](#Other (5))
  
 #### Benchmark, Dataset and Survey (27)
@@ -502,6 +503,8 @@ Highlights: apply the ICLR 2017 paper "Semisupervised knowledge transfer for dee
 ## Bayesian Learning 
 [Differentially Private Federated Variational Inference. NeurIPS 2019 FL Workshop. 2019-11-24.](https://arxiv.org/pdf/1911.10563.pdf)
 
+## Causal Learning
+[Towards Causal Federated Learning For Enhanced Robustness and Privacy. ICLR 2021 DPML Workshop](https://arxiv.org/pdf/2104.06557.pdf)
 
 # Trustworthy AI: adversarial attack, privacy, fairness, incentive mechanism, etc.
 
@@ -730,6 +733,9 @@ Citation: 2
 
 
 ## Incentive Mechanism
+
+[Record and reward federated learning contributions with blockchain. IEEE CyberC 2019](https://mblocklab.com/RecordandReward.pdf)
+
 [FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC. ICDCS 2020](https://arxiv.org/pdf/2002.09699.pdf)
 
 [Toward an Automated Auction Framework for Wireless Federated Learning Services Market](https://arxiv.org/pdf/1912.06370.pdf)
@@ -1324,6 +1330,8 @@ Keywords: Split Learning + Sparsification
 
 ## Blockchain
 [Blockchained On-Device Federated Learning](https://arxiv.org/pdf/1808.03949.pdf)
+
+[Record and reward federated learning contributions with blockchain](https://mblocklab.com/RecordandReward.pdf)
 
 ## Other
 [Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing](https://arxiv.org/pdf/1907.10218.pdf)
