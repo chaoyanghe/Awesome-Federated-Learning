@@ -283,6 +283,9 @@ Citation: 146
 
 [Personalized Federated Learning with Moreau Envelopes. 2020](https://arxiv.org/pdf/2006.08848.pdf)
 
+
+[Personalized Federated Learning using Hypernetworks. 2021](https://arxiv.org/pdf/2103.04628.pdf)
+
 [Ensemble Distillation for Robust Model Fusion in Federated Learning. 2020](https://arxiv.org/pdf/2006.07242.pdf)
 Researcher: Tao Lin, ZJU, EPFL https://tlin-tao-lin.github.io/index.html
 
