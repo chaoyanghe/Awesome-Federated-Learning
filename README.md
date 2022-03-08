@@ -1369,6 +1369,8 @@ Keywords: Split Learning + Sparsification
 
 ## Survey
 
+[The Internet of Federated Things (IoFT)](https://ieeexplore.ieee.org/document/9611259)
+
 [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
 
 Researcher: Bingsheng He, NUS [Qinbin Li, PhD, NUS, HKUST](https://qinbinli.com/files/CV_QB.pdf)
