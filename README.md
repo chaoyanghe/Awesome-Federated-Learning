@@ -1,4 +1,4 @@
-## A Federated Learning research library - FedML: https://fedml.ai
+## FedML - The Most Popular Federated Learning Library https://fedml.ai
 
 # Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
