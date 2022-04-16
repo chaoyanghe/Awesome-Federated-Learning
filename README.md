@@ -6,7 +6,7 @@ A curated list of federated learning publications, re-organized from Arxiv (most
 
 <strong>Last Update: July, 20th, 2021</strong>.	
 
-If your publication is not included here, please email to chaoyang.he@usc.edu
+If your publication is not included here, please email to chaoyanghe.com@gmail.com
 
 # Foundations and Trends in Machine Learning
 We are thrilled to share that [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) has been accepted to [FnTML](https://www.nowpublishers.com/MAL) (<b>Foundations and Trends in Machine Learning</b>, the chief editor is [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)).
