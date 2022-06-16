@@ -1,3 +1,5 @@
+<span style="color:red">The latest update hsa been moved to</span> https://github.com/FedML-AI/FedML/blob/master/research/Awesome-Federated-Learning.md
+
 ## FedML - The Most Popular Federated Learning Library https://fedml.ai
 
 # Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
