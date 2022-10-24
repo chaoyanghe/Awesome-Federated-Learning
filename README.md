@@ -60,8 +60,8 @@ Note: most of the accepted publications are preparing the camera ready revision,
 
 
 ## Research Areas
-#### Statistical Challenges: data distribution heterogeneity and label deficiency (159)
- - [Distributed Optimization](#Distributed-optimization (68))
+#### Statistical Challenges: data distribution heterogeneity and label deficiency (160)
+ - [Distributed Optimization](#Distributed-optimization (69))
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (53))
  - [Semi-Supervised Learning](#Semi-Supervised-Learning (3))
  - [Vertical Federated Learning](#Vertical-Federated-Learning (8))
@@ -271,6 +271,9 @@ Citation: 146
 [Don't Use Large Mini-Batches, Use Local SGD](https://arxiv.org/pdf/1808.07217.pdf)
 
 [Understanding Unintended Memorization in Federated Learning](http://arxiv.org/pdf/2006.07490.pdf)
+
+[FedSim: Similarity guided model aggregation for Federated Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016039)
+
 
 ## Non-IID and Model Personalization
 [The Non-IID Data Quagmire of Decentralized Machine Learning. 2019-10](https://arxiv.org/pdf/1910.00189.pdf)
