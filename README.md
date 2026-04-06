@@ -2,6 +2,7 @@
 
 ## Federated Learning Library - FedML https://fedml.ai
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with federated coordination patterns. MIT licensed.
 # Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
