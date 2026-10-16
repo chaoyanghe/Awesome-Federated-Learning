@@ -838,6 +838,8 @@ Researcher: Mehrdad Mahdavi, Jin Rong’s PhD http://www.cse.psu.edu/~mzm616/
 
 [Information-Theoretic Perspective of Federated Learning](https://arxiv.org/pdf/1911.07652.pdf)
 
+[Speed Up Federated Learning in Heterogeneous Environments: A Dynamic Tiering Approach](https://doi.org/10.1109/JIOT.2024.3468511)
+
 
 ## Computation Efficiency
 [NeurIPS 2020 Submission: Distributed Learning on Heterogeneous Resource-Constrained Devices](https://arxiv.org/pdf/2006.05403.pdf)
