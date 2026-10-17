@@ -419,6 +419,10 @@ Researcher: Tencent Cloud, Libin Wang
 
 
 ## Decentralized FL
+[Sustainable Smart Grid Resilience and Renewable Integration Using Multi-Agent Reinforcement Learning. MDPI Sustainability 2026](https://www.mdpi.com/2071-1050/18/20/10574) ([DOI](https://doi.org/10.3390/su182010574), [Code](https://github.com/mahmoudsajjadi/Smart-Grid-Resilience-MARL))
+
+[Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning. IEEE ICDCS 2024](https://doi.org/10.1109/ICDCS60910.2024.00062)
+
 [Central Server Free Federated Learning over Single-sided Trust Social Networks](https://arxiv.org/pdf/1910.04956.pdf)
 
 [Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent](https://arxiv.org/pdf/1705.09056.pdf)
