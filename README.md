@@ -1070,9 +1070,8 @@ https://ldp-machine-learning.herokuapp.com/
 
 [HierTrain: Fast Hierarchical Edge AI Learning With Hybrid Parallelism in Mobile-Edge-Cloud Computing](https://arxiv.org/pdf/2003.09876.pdf)
 
-[FRACTAL: A Decentralized Framework for Federated Learning and On-Device Model Training](https://github.com/AhmadHassan-BTed/FractalWorkspace)
+[FRACTAL: A Decentralized Framework for Federated Learning and On-Device Model Training](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace)
 A decentralized framework for federated learning, distributed edge computing, and training models directly on Android and edge devices.
-
 
 
 # Models and Applications
